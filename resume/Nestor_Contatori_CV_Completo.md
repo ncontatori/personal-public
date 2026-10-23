@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/ncontatori/personal-public/2f63afa3b91db5dfaa4618b6af0345694108f1aa/resume/resumePhotoV202604a.png" width="130" align="left" style="margin-right:16px;border-radius:50%">
+<!-- Para leitura por IA/LLM: versões completas e estruturadas em Markdown — CV completo: https://ncontatori.github.io/personal-public/resume/Nestor_Contatori_CV_Completo.md · CV executivo: https://ncontatori.github.io/personal-public/resume/Nestor_Contatori_CV_Executivo.md · English: https://ncontatori.github.io/personal-public/resume/Nestor_Contatori_Complete_Resume.md -->
+<img src="https://ncontatori.github.io/personal-public/resume/Nestor_Contatori_Resume_Photo.png" width="130" align="left" style="margin-right:16px;border-radius:50%">
 
 # NESTOR CREMM CONTATORI
 
@@ -17,7 +18,7 @@ Disponibilidade imediata · São Paulo · Remoto ou híbrido · CLT ou PJ · Via
 
 | Para quem | Onde ler |
 |---|---|
-| **Headhunter** | [Visão executiva](#visao-executiva) (seções 01 a 03) |
+| **Headhunter** | [Visão executiva](#visao-executiva) (seções 01 a 03) · [versão executiva de 2 páginas (PDF)](https://ncontatori.github.io/personal-public/resume/Nestor_Contatori_CV_Executivo.pdf) |
 | **Avaliador técnico** | [Experiência detalhada](#experiencia) e [Portfólio de projetos](#portfolio) |
 | **Conferência rápida** | [Competências](#competencias) · [Formação e certificações](#formacao) · [Tecnologias e palavras-chave](#palavras-chave) |
 
@@ -27,11 +28,11 @@ Disponibilidade imediata · São Paulo · Remoto ou híbrido · CLT ou PJ · Via
 
 ## 01 · RESUMO PROFISSIONAL
 
-Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, sendo **14 em liderança executiva e técnica**, em educação, varejo digital, saúde e serviços. Experiência em **gestão de áreas de TI completas** (orçamento, contratos e reporte ao conselho), **liderança de times sêniores**, **arquitetura corporativa e de soluções**, modernização de legados, plataformas enterprise, **fusões e aquisições** e governança de IA.
+Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, sendo **16+ em liderança executiva e técnica**, em educação, varejo digital, saúde e serviços. Experiência em **gestão de áreas de TI completas** (orçamento, contratos e reporte ao conselho), **liderança de times sêniores**, **arquitetura corporativa e de soluções**, modernização de legados, plataformas enterprise, **fusões e aquisições** e governança de IA.
 
-| **20+** | **14** | **600+** | **48** |
+| **20+** | **16+** | **600+** | **48** |
 |---|---|---|---|
-| anos em tecnologia | anos em liderança executiva e técnica | aplicações sob governança de arquitetura | profissionais liderados em um único time |
+| anos em tecnologia | anos em liderança executiva e técnica | aplicações sob governança de arquitetura | profissionais sob gestão em uma única área de TI |
 
 ## 02 · COMPETÊNCIAS-CHAVE
 
@@ -46,89 +47,80 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 
 ## 03 · TRAJETÓRIA E PRINCIPAIS ENTREGAS
 
-<svg width="100%" viewBox="0 0 1000.0 547.7" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif">
-<rect width="1000.0" height="547.7" fill="#ffffff"/>
-<text x="38.7" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2004</text>
-<text x="118.9" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2006</text>
-<text x="199.2" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2008</text>
-<text x="279.4" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2010</text>
-<text x="359.6" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2012</text>
-<text x="439.8" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2014</text>
-<text x="520.1" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2016</text>
-<text x="600.3" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2018</text>
-<text x="760.7" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2022</text>
-<text x="841.0" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2024</text>
-<text x="921.2" y="383.2" font-size="17.4" fill="#5A6876" text-anchor="middle">2026</text>
-<rect x="38.7" y="341.9" width="922.6" height="7.7" rx="3.9" fill="#EAEFF3"/>
-<rect x="55.4" y="336.8" width="70.2" height="18.1" rx="9.0" fill="#788CA0"/>
-<rect x="135.6" y="336.8" width="26.7" height="18.1" rx="9.0" fill="#788CA0"/>
-<rect x="182.4" y="336.8" width="86.9" height="18.1" rx="9.0" fill="#1F8CBE"/>
-<rect x="269.4" y="336.8" width="270.8" height="18.1" rx="9.0" fill="#17283A"/>
-<rect x="540.1" y="336.8" width="127.0" height="18.1" rx="9.0" fill="#285A8C"/>
-<rect x="670.5" y="336.8" width="43.5" height="18.1" rx="9.0" fill="#196EA0"/>
-<rect x="717.3" y="336.8" width="237.3" height="18.1" rx="9.0" fill="#D6962A"/>
-<line x1="90.5" y1="335.5" x2="90.5" y2="102.6" stroke="#788CA0" stroke-width="1.9"/>
-<circle cx="90.5" cy="336.8" r="4.5" fill="#788CA0"/>
-<rect x="7.7" y="25.8" width="3.9" height="76.8" fill="#788CA0"/>
-<text x="15.5" y="47.7" font-size="21.9">🏪</text>
-<text x="46.5" y="49.0" font-size="24.5" font-weight="700" fill="#17283A">Kioske Fazendinha</text>
-<text x="15.5" y="76.1" font-size="19.4" font-weight="500" fill="#2B3640">Estagiário de TI</text>
-<text x="15.5" y="100.0" font-size="17.4" fill="#5A6876">2004–2006 · 2 anos</text>
-<line x1="149.0" y1="356.1" x2="149.0" y2="391.0" stroke="#788CA0" stroke-width="1.9"/>
-<circle cx="149.0" cy="359.4" r="4.5" fill="#788CA0"/>
-<rect x="54.2" y="391.0" width="3.9" height="76.8" fill="#788CA0"/>
-<text x="61.9" y="412.9" font-size="21.9">💼</text>
-<text x="92.9" y="414.2" font-size="24.5" font-weight="700" fill="#17283A">Paterno</text>
-<text x="61.9" y="441.3" font-size="19.4" font-weight="500" fill="#2B3640">Analista de Suporte</text>
-<text x="61.9" y="465.2" font-size="17.4" fill="#5A6876">2006–2007</text>
-<line x1="225.9" y1="335.5" x2="225.9" y2="300.6" stroke="#1F8CBE" stroke-width="1.9"/>
-<circle cx="225.9" cy="336.8" r="4.5" fill="#1F8CBE"/>
-<rect x="121.7" y="176.1" width="3.9" height="124.5" fill="#1F8CBE"/>
-<text x="129.5" y="198.1" font-size="21.9">⚙️</text>
-<text x="160.5" y="199.4" font-size="24.5" font-weight="700" fill="#17283A">Lan Designers</text>
-<text x="129.5" y="226.5" font-size="19.4" font-weight="500" fill="#2B3640">Suporte →</text>
-<text x="129.5" y="250.3" font-size="19.4" font-weight="500" fill="#2B3640">Especialista de</text>
-<text x="129.5" y="274.2" font-size="19.4" font-weight="500" fill="#2B3640">Processos</text>
-<text x="129.5" y="298.1" font-size="17.4" fill="#5A6876">2007–2009 · 2 anos</text>
-<line x1="404.7" y1="356.1" x2="404.7" y2="391.0" stroke="#17283A" stroke-width="1.9"/>
-<circle cx="404.7" cy="359.4" r="4.5" fill="#17283A"/>
-<rect x="313.5" y="391.0" width="3.9" height="100.6" fill="#17283A"/>
-<text x="321.2" y="412.9" font-size="21.9">🛒</text>
-<text x="352.2" y="414.2" font-size="24.5" font-weight="700" fill="#17283A">B2W Digital</text>
-<text x="321.2" y="441.3" font-size="19.4" font-weight="500" fill="#2B3640">Especialista →</text>
-<text x="321.2" y="465.2" font-size="19.4" font-weight="500" fill="#2B3640">Coordenador de TI</text>
-<text x="321.2" y="489.0" font-size="17.4" fill="#5A6876">2009–2016 · 7 anos</text>
-<line x1="603.6" y1="335.5" x2="603.6" y2="102.6" stroke="#285A8C" stroke-width="1.9"/>
-<circle cx="603.6" cy="336.8" r="4.5" fill="#285A8C"/>
-<rect x="516.0" y="25.8" width="3.9" height="76.8" fill="#285A8C"/>
-<text x="523.7" y="47.7" font-size="21.9">🩺</text>
-<text x="554.7" y="49.0" font-size="24.5" font-weight="700" fill="#17283A">CETRUS</text>
-<text x="523.7" y="76.1" font-size="19.4" font-weight="500" fill="#2B3640">Gerente de TI</text>
-<text x="523.7" y="100.0" font-size="17.4" fill="#5A6876">2016–2019 · 3 anos</text>
-<line x1="692.2" y1="356.1" x2="692.2" y2="391.0" stroke="#196EA0" stroke-width="1.9"/>
-<circle cx="692.2" cy="359.4" r="4.5" fill="#196EA0"/>
-<rect x="608.3" y="391.0" width="3.9" height="100.6" fill="#196EA0"/>
-<text x="616.0" y="412.9" font-size="21.9">🎓</text>
-<text x="647.0" y="414.2" font-size="24.5" font-weight="700" fill="#17283A">Adtalem</text>
-<text x="616.0" y="441.3" font-size="19.4" font-weight="500" fill="#2B3640">Coordenador de</text>
-<text x="616.0" y="465.2" font-size="19.4" font-weight="500" fill="#2B3640">Arquitetura de TI</text>
-<text x="616.0" y="489.0" font-size="17.4" fill="#5A6876">2019–2020</text>
-<line x1="835.9" y1="335.5" x2="835.9" y2="150.3" stroke="#D6962A" stroke-width="1.9"/>
-<circle cx="835.9" cy="336.8" r="4.5" fill="#D6962A"/>
-<rect x="737.7" y="25.8" width="3.9" height="124.5" fill="#D6962A"/>
-<text x="745.4" y="47.7" font-size="21.9">🎓</text>
-<text x="776.4" y="49.0" font-size="24.5" font-weight="700" fill="#17283A">YDUQS</text>
-<text x="745.4" y="76.1" font-size="19.4" font-weight="500" fill="#2B3640">Coordenador de TI e</text>
-<text x="745.4" y="100.0" font-size="19.4" font-weight="500" fill="#2B3640">Arquitetura</text>
-<text x="745.4" y="123.9" font-size="19.4" font-weight="500" fill="#2B3640">Corporativa</text>
-<text x="745.4" y="147.7" font-size="17.4" fill="#5A6876">2020–2026 · 6 anos</text>
+<svg width="100%" viewBox="0 0 1550 502" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif">
+<rect width="1550" height="502" fill="#ffffff"/>
+<text x="60.0" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2004</text>
+<text x="184.3" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2006</text>
+<text x="308.7" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2008</text>
+<text x="433.0" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2010</text>
+<text x="557.4" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2012</text>
+<text x="681.7" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2014</text>
+<text x="806.1" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2016</text>
+<text x="930.4" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2018</text>
+<text x="1179.1" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2022</text>
+<text x="1303.5" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2024</text>
+<text x="1427.8" y="280" font-size="25" fill="#5A6876" text-anchor="middle">2026</text>
+<rect x="60" y="228" width="1430" height="12" rx="6" fill="#EAEFF3"/>
+<rect x="85.9" y="220" width="108.8" height="28" rx="14" fill="#788CA0"/>
+<rect x="282.8" y="220" width="134.7" height="28" rx="14" fill="#1F8CBE"/>
+<rect x="837.2" y="220" width="196.9" height="28" rx="14" fill="#285A8C"/>
+<rect x="1111.8" y="220" width="367.9" height="28" rx="14" fill="#D6962A"/>
+<rect x="210.3" y="220" width="41.4" height="28" rx="14" fill="#788CA0"/>
+<rect x="417.5" y="220" width="419.7" height="28" rx="14" fill="#17283A"/>
+<rect x="1039.2" y="220" width="67.4" height="28" rx="14" fill="#196EA0"/>
+<rect x="78.0" y="20" width="321.5" height="144" rx="10" fill="#F6F8FA"/><rect x="78.0" y="20" width="6" height="144" rx="3" fill="#788CA0"/>
+<path d="M96.0 42.5 L99.6 35.0 H122.4 L126.0 42.5 Z M98.4 42.5 V59.0 H123.6 V42.5 M107.4 59.0 V48.5 H114.6 V59.0" fill="none" stroke="#788CA0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="136.0" y="57" font-size="28" font-weight="700" fill="#17283A">Kioske Fazendinha</text>
+<text x="96.0" y="92" font-size="27" font-weight="500" fill="#2B3640">Estagiário de TI</text>
+<text x="96.0" y="126" font-size="25" fill="#5A6876">2004 – 2006 · 2 anos</text>
+<path d="M238.8 164 V192.0 H140.3 V218" fill="none" stroke="#788CA0" stroke-width="3"/><circle cx="140.3" cy="218" r="6" fill="#788CA0"/>
+<rect x="435.5" y="20" width="321.5" height="144" rx="10" fill="#F6F8FA"/><rect x="435.5" y="20" width="6" height="144" rx="3" fill="#1F8CBE"/>
+<circle cx="468.5" cy="47.0" r="7.800000000000001" fill="none" stroke="#1F8CBE" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="468.5" cy="47.0" r="3.0" fill="none" stroke="#1F8CBE" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M468.5 32 V37.4 M468.5 56.599999999999994 V62 M453.5 47.0 H458.9 M478.1 47.0 H483.5" fill="none" stroke="#1F8CBE" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="493.5" y="57" font-size="34" font-weight="700" fill="#17283A">Lan Designers</text>
+<text x="453.5" y="92" font-size="27" font-weight="500" fill="#2B3640">Suporte → Especialista</text>
+<text x="453.5" y="126" font-size="27" font-weight="500" fill="#2B3640">de Processos</text>
+<text x="453.5" y="160" font-size="25" fill="#5A6876">2007 – 2009 · 2 anos</text>
+<path d="M596.2 164 V192.0 H350.1 V218" fill="none" stroke="#1F8CBE" stroke-width="3"/><circle cx="350.1" cy="218" r="6" fill="#1F8CBE"/>
+<rect x="793.0" y="20" width="321.5" height="144" rx="10" fill="#F6F8FA"/><rect x="793.0" y="20" width="6" height="144" rx="3" fill="#285A8C"/>
+<path d="M826.0 59.0 L812.8 45.5 V39.5 L819.4 35.0 L826.0 40.4 L832.6 35.0 L839.2 39.5 V45.5 Z M817.0 45.5 H822.4 L824.8 41.0 L827.8 50.0 L830.2 45.5 H835.0" fill="none" stroke="#285A8C" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="851.0" y="57" font-size="34" font-weight="700" fill="#17283A">CETRUS</text>
+<text x="811.0" y="92" font-size="27" font-weight="500" fill="#2B3640">Gerente de TI</text>
+<text x="811.0" y="126" font-size="25" fill="#5A6876">2016 – 2019 · 3 anos</text>
+<path d="M953.8 164 V192.0 H935.6 V218" fill="none" stroke="#285A8C" stroke-width="3"/><circle cx="935.6" cy="218" r="6" fill="#285A8C"/>
+<rect x="1150.5" y="20" width="321.5" height="144" rx="10" fill="#F6F8FA"/><rect x="1150.5" y="20" width="6" height="144" rx="3" fill="#D6962A"/>
+<path d="M1168.5 43.4 L1183.5 36.5 L1198.5 43.4 L1183.5 50.0 Z M1175.1 47.0 V55.400000000000006 L1183.5 59.0 L1191.9 55.400000000000006 V47.0" fill="none" stroke="#D6962A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1208.5" y="57" font-size="34" font-weight="700" fill="#17283A">YDUQS</text>
+<text x="1168.5" y="92" font-size="27" font-weight="500" fill="#2B3640">Coordenador de TI e</text>
+<text x="1168.5" y="126" font-size="27" font-weight="500" fill="#2B3640">Arquitetura Corporativa</text>
+<text x="1168.5" y="160" font-size="25" fill="#5A6876">2020 – 2026 · 6 anos</text>
+<path d="M1311.2 164 V192.0 H1295.7 V218" fill="none" stroke="#D6962A" stroke-width="3"/><circle cx="1295.7" cy="218" r="6" fill="#D6962A"/>
+<rect x="137.6" y="338" width="321.5" height="144" rx="10" fill="#F6F8FA"/><rect x="137.6" y="338" width="6" height="144" rx="3" fill="#788CA0"/>
+<rect x="155.58333333333337" y="359.0" width="30" height="18.0" rx="4" fill="none" stroke="#788CA0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><path d="M165.18333333333337 359.0 V353.6 H175.98333333333338 V359.0 M155.58333333333337 366.5 H185.58333333333337" fill="none" stroke="#788CA0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="195.6" y="375" font-size="34" font-weight="700" fill="#17283A">Paterno</text>
+<text x="155.6" y="410" font-size="27" font-weight="500" fill="#2B3640">Analista de Suporte</text>
+<text x="155.6" y="444" font-size="25" fill="#5A6876">2006 – 2007</text>
+<path d="M298.3 338 V312.0 H231.0 V250" fill="none" stroke="#788CA0" stroke-width="3"/><circle cx="231.0" cy="250" r="6" fill="#788CA0"/>
+<rect x="614.2" y="338" width="321.5" height="144" rx="10" fill="#F6F8FA"/><rect x="614.2" y="338" width="6" height="144" rx="3" fill="#17283A"/>
+<path d="M632.25 354.5 H637.65 L641.25 368.6 H657.75 L660.75 358.4 H639.45" fill="none" stroke="#17283A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="643.65" cy="374.6" r="3.5" fill="none" stroke="#17283A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="655.65" cy="374.6" r="3.5" fill="none" stroke="#17283A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="672.2" y="375" font-size="34" font-weight="700" fill="#17283A">B2W Digital</text>
+<text x="632.2" y="410" font-size="27" font-weight="500" fill="#2B3640">Especialista →</text>
+<text x="632.2" y="444" font-size="27" font-weight="500" fill="#2B3640">Coordenador de TI</text>
+<text x="632.2" y="478" font-size="25" fill="#5A6876">2009 – 2016 · 7 anos</text>
+<path d="M775.0 338 V312.0 H627.3 V250" fill="none" stroke="#17283A" stroke-width="3"/><circle cx="627.3" cy="250" r="6" fill="#17283A"/>
+<rect x="1090.9" y="338" width="321.5" height="144" rx="10" fill="#F6F8FA"/><rect x="1090.9" y="338" width="6" height="144" rx="3" fill="#196EA0"/>
+<path d="M1108.9166666666667 361.4 L1123.9166666666667 354.5 L1138.9166666666667 361.4 L1123.9166666666667 368.0 Z M1115.5166666666667 365.0 V373.4 L1123.9166666666667 377.0 L1132.3166666666668 373.4 V365.0" fill="none" stroke="#196EA0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1148.9" y="375" font-size="34" font-weight="700" fill="#17283A">Adtalem</text>
+<text x="1108.9" y="410" font-size="27" font-weight="500" fill="#2B3640">Coordenador de</text>
+<text x="1108.9" y="444" font-size="27" font-weight="500" fill="#2B3640">Arquitetura de TI</text>
+<text x="1108.9" y="478" font-size="25" fill="#5A6876">2019 – 2020</text>
+<path d="M1251.7 338 V312.0 H1072.9 V250" fill="none" stroke="#196EA0" stroke-width="3"/><circle cx="1072.9" cy="250" r="6" fill="#196EA0"/>
 </svg>
 
 ### YDUQS
 **Coordenador de TI e Arquitetura Corporativa** · *Dez/2020 – Nov/2026*  
-*Grupo educacional com 1,4M de alunos · time de 12 arquitetos sêniores · interface direta com diretoria e C-Level*
+*Grupo educacional com 1,3M+ de alunos · time de 12 arquitetos sêniores · interface direta com diretoria e C-Level*
 
-- Construí com o C-Level o **Plano Diretor de TI 2026–2030** (IA, dados, produtos digitais e obsolescência), base das decisões de investimento.
+- Construí com o C-Level o **Plano Diretor de TI 2026 – 2030** (IA, dados, produtos digitais e obsolescência), base das decisões de investimento.
 - Estruturei a **prática de arquitetura corporativa**: 600+ aplicações mapeadas, ARB, TOGAF® e ServiceNow, com POC do LeanIX concluída.
 - Liderei a arquitetura da **modernização de legados** e da adoção de **SAP, Salesforce, ServiceNow e Databricks**.
 - Conduzi a integração tecnológica de **6 empresas adquiridas** (UniToledo, QConcursos, HardWork Medicina, Newton Paiva, Edufor e Unifametro).
@@ -139,8 +131,10 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 **Coordenador de Arquitetura de TI** · *Out/2019 – Nov/2020*  
 *Ibmec, Damásio e outras marcas · 100K+ alunos*
 
-- Criei a **área de arquitetura de TI e o ARB** e conduzi o discovery do ecossistema de TI.
+- Criei a **área de arquitetura de TI e o ARB**, com modelo de referência alinhado ao grupo adquirente: **100% das compras de tecnologia** passaram a ser revisadas.
 - Liderei a **due diligence técnica e a integração** na aquisição pela YDUQS, com **R$ 20M/ano em sinergias de TI** identificadas.
+- Conduzi o discovery do ecossistema (**150+ aplicações e 100+ integrações**), base do roadmap de integração e modernização.
+- Estruturei a arquitetura de integrações API-led, com **−40% de integrações ponto a ponto**.
 
 ### Faculdade CETRUS
 **Gerente de TI** · *Jul/2016 – Set/2019*  
@@ -155,19 +149,26 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 *Governança de TI e Service Desk · times de até 48 profissionais*
 
 - Conduzi a seleção global de ITSM e a implantação do **ServiceNow em 2012**, como um dos primeiros clientes no Brasil: **SLA de 47% para 89%** em 90 dias e **R$ 1,8M/ano** de economia.
+- Liderei os times de Governança de TI e Service Desk e estruturei o catálogo de serviços com **2,5K+ itens** (TI, RH, compras e facilities).
+- Implantei os processos ITIL e a gestão de configuração e ativos, com **−68% de incidentes recorrentes**.
 - Liderei o comitê de automação (**−63% de custo e −85% de tempo** de execução) e renegociei contratos com **47% de economia** nas renovações.
 
 ### Lan Designers
 **Especialista de Processos · Supervisor · Analista de Suporte** · *Ago/2007 – Out/2009*  
 *Consultoria de automação de processos de TI*
 
-- Elevei o **SLA de resolução de 45% para 92%** na operação logística do Submarino durante a fusão com a Americanas.
-- Automatizei processos de TI e de negócio para Deutsche Bank, Rabobank, Banco Votorantim e 3G Capital.
+- Elevei o **SLA de resolução de 45% para 92%** na operação logística do Submarino durante a fusão com a Americanas, migrando **100% das contas e recursos** sem interromper a operação.
+- Automatizei processos ITIL e de negócio para Deutsche Bank, Rabobank, Banco Votorantim e 3G Capital, em **10+ implantações** do ASK Business Desk.
+- Montei ambientes de POC e POV que apoiaram a pré-venda e a prospecção de grandes contas.
 
-### Paterno Assessoria Jurídica · Kioske Fazendinha
-**Analista de Suporte de TI · Estagiário de TI** · *Jun/2004 – Fev/2007*
+### Paterno Assessoria Jurídica
+**Analista de Suporte de TI** · *Jun/2006 – Fev/2007*  
+*Assessoria jurídica e cobrança · contact center com 40+ posições*
 
-- Montei a infraestrutura de servidores e rede, dei suporte ao contact center e iniciei a carreira em TI.
+- Montei a infraestrutura de servidores e rede (Active Directory, SQL Server, DHCP e DNS) com **99,5% de disponibilidade** e links redundantes.
+- Automatizei o processamento de dados de cobrança e correspondência, com **−60% no tempo** de preparação dos lotes.
+
+> **Kioske Fazendinha** · Estagiário de TI · Jun/2004 – Mar/2006 — primeira experiência: informatização do negócio, rede local, site e campanhas digitais.
 
 ---
 
@@ -183,10 +184,10 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 
 > Um dos maiores grupos educacionais da América Latina (marcas: Estácio, Wyden, Ibmec, IDOMED e outras). Responsável pela estruturação e liderança da prática de Arquitetura Corporativa, Domínio e Soluções em nível grupo.
 
-**Escala gerenciada:** 1,4M alunos · 15K+ colaboradores · R$ 5,5B+ de faturamento/ano · 103+ campi físicos · 2K+ polos EaD · 66 instituições de ensino superior · atuação nacional
+**Escala gerenciada:** 1,3M+ alunos · 15K+ colaboradores · R$ 5,5B+ de faturamento/ano · 103+ campi físicos · 2K+ polos EaD · 66 instituições de ensino superior · atuação nacional
 
 ### Coordenador de Tecnologia da Informação e Arquitetura Corporativa
-*Dez/2020 – Nov/2026 · 5+ anos · São Paulo · Brasil · Remoto*
+*Dez/2020 – Nov/2026 · 5 anos 11 meses · São Paulo · Brasil · Remoto*
 
 **👥 [Liderança de Equipe, Gestão de Pessoas & Cultura](#proj-time-arquitetura)**
 - **Liderança Direta:** Gestão e desenvolvimento do time de **12 posições de arquitetos sêniores** nas disciplinas Enterprise, Domínios e Soluções.
@@ -196,7 +197,7 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 **📊 [Governança de Arquitetura Corporativa (EA) & Estratégia Tecnológica](#proj-ea-corporativa)**
 - **Prática de EA com TOGAF® 9:** Arquiteturas-alvo e de transição, governança de decisões (ARB), guardrails e arquiteturas de referência.
 - **[Repositório EA (EA4US, ServiceNow e DevOps)](#proj-repositorio-ea):** 600+ aplicações mapeadas com capacidades, integrações e obsolescência; POC do LeanIX concluída, com implantação aguardando orçamento.
-- **[Plano Diretor de TI (PDTI)](#proj-pdti-yduqs):** Plano 2026–2030 de tecnologia como estratégia de negócio — IA, dados, produtos digitais e redução de obsolescência.
+- **[Plano Diretor de TI (PDTI)](#proj-pdti-yduqs):** Plano 2026 – 2030 de tecnologia como estratégia de negócio — IA, dados, produtos digitais e redução de obsolescência.
 - **[Arquitetura de Sistemas de RH/HCM](#proj-rh-hcm):** Avaliação AS-IS e TO-BE do ecossistema de RH e Departamento Pessoal — capacidades, FIT/GAP, benchmark e roadmap.
 - **[Reforma Tributária (CBS/IBS)](#proj-reforma-tributaria):** Arquitetura do paralelismo tributário entre Billing, SAP e motor fiscal (Synchro).
 
@@ -239,7 +240,7 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 
 <a id="exp-adtalem"></a>
 ## 💼 ADTALEM EDUCACIONAL DO BRASIL S/A
-[adtalem.com](https://www.yduqs.com.br/) · Educação Superior · Capital Aberto · Subsidiária da Adtalem Global (NYSE: ATGE) · (Adquirida pela YDUQS em 2020)
+[adtalem.com](https://www.adtalem.com/) · Educação Superior · Capital Aberto · Subsidiária da Adtalem Global (NYSE: ATGE) · (Adquirida pela YDUQS em 2020)
 
 ### Coordenador de Arquitetura de Tecnologia da Informação
 *Out/2019 – Nov/2020 · 1 ano 2 meses · São Paulo · Brasil · Híbrido*
@@ -391,7 +392,7 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 
 > Gestão voluntária de Tecnologia da Informação e Comunicações (TIC) da matriz Brás e Regional Embu das Artes na liderança de arquitetura e governança de tecnologia. Responsável pela gestão de toda a área de Tecnologia da Regional Embu das Artes.
 
-**Escala gerenciada:** 12K+ membros ativos · 6 unidades administrativas · 90+ templos · 600+ colaboradores gerais · 20+ colaboradores diretos · R$ 600M+ de orçamento anual da área · atuação nacional · responsabilidade regional
+**Escala gerenciada:** 12K+ membros ativos · 6 unidades administrativas · 90+ templos · 600+ colaboradores gerais · 20+ colaboradores diretos · R$ 600 mil/ano de orçamento da regional · atuação nacional · responsabilidade regional
 
 - 🏛️ *Membro do [comitê de governança, arquitetura e segurança](#proj-comite-matriz-ccb) da matriz.*
 - 🖥️ *[Infraestrutura Híbrida e Colaboração](#proj-infra-hibrida-ccb) — liderança da administração de infraestrutura híbrida: Azure, SharePoint, Office 365, servidores Windows e Linux (virtualização, domínio, file server, redes), switches, roteadores e firewalls.*
@@ -423,7 +424,7 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 | Domínio | Competência | Nível | Evidência na Trajetória |
 |---|---|---|---|
 | Arquitetura & Estratégia | Arquitetura Corporativa (TOGAF® 9) | ★★★★★ | [Prática de EA](#proj-ea-corporativa): ADM, Business Capabilities, arquiteturas-alvo e de transição, EA4US, guardrails e [repositório com POC do LeanIX](#proj-repositorio-ea) (YDUQS) |
-| Arquitetura & Estratégia | Planejamento Estratégico de TI (PDTI) | ★★★★★ | [PDTI 2026–2030](#proj-pdti-yduqs) com o C-Level (YDUQS) · [PDTI regional](#proj-pdti-ccb) (voluntariado) |
+| Arquitetura & Estratégia | Planejamento Estratégico de TI (PDTI) | ★★★★★ | [PDTI 2026 – 2030](#proj-pdti-yduqs) com o C-Level (YDUQS) · [PDTI regional](#proj-pdti-ccb) (voluntariado) |
 | Arquitetura & Estratégia | Transformação Digital & Modernização de Legados | ★★★★★ | [Programa de modernização](#proj-modernizacao-legados): cloud-native, microsserviços e API-first (YDUQS) |
 | Arquitetura & Estratégia | Seleção de Plataformas, RFP & Make or Buy | ★★★★☆ | [ServiceNow](#proj-itsm-b2w) (20+ ferramentas e 118 requisitos, B2W) · [Gibraltar](#proj-gibraltar) · [Oracle BRM](#proj-billing-brm) · [RH/HCM](#proj-rh-hcm) · TCO/ROI (YDUQS) |
 | Arquitetura & Estratégia | Arquitetura de Soluções | ★★★★☆ | [Novo SIA](#proj-sia), [Billing](#proj-billing-brm) e [produtos acadêmicos próprios](#proj-produtos-academicos): microsserviços, DDD e cloud-native |
@@ -479,69 +480,101 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 
 # 06 · FORMAÇÃO, CERTIFICAÇÕES E IDIOMAS
 
-<svg width="100%" viewBox="0 0 1000.0 397.4" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif">
-<rect width="1000.0" height="397.4" fill="#ffffff"/>
-<text x="38.7" y="232.9" font-size="17.4" fill="#5A6876" text-anchor="middle">2004</text>
-<text x="192.5" y="232.9" font-size="17.4" fill="#5A6876" text-anchor="middle">2006</text>
-<text x="346.2" y="232.9" font-size="17.4" fill="#5A6876" text-anchor="middle">2008</text>
-<text x="500.0" y="232.9" font-size="17.4" fill="#5A6876" text-anchor="middle">2010</text>
-<text x="653.8" y="232.9" font-size="17.4" fill="#5A6876" text-anchor="middle">2012</text>
-<text x="807.5" y="232.9" font-size="17.4" fill="#5A6876" text-anchor="middle">2014</text>
-<text x="961.3" y="232.9" font-size="17.4" fill="#5A6876" text-anchor="middle">2016</text>
-<rect x="38.7" y="191.6" width="922.6" height="7.7" rx="3.9" fill="#EAEFF3"/>
-<rect x="38.7" y="186.5" width="230.6" height="18.1" rx="9.0" fill="#196EA0"/>
-<rect x="269.4" y="186.5" width="384.4" height="18.1" rx="9.0" fill="#17283A"/>
-<rect x="807.5" y="186.5" width="146.1" height="18.1" rx="9.0" fill="#D6962A"/>
-<line x1="154.0" y1="185.2" x2="154.0" y2="126.5" stroke="#196EA0" stroke-width="1.9"/>
-<circle cx="154.0" cy="186.5" r="4.5" fill="#196EA0"/>
-<rect x="53.2" y="25.8" width="3.9" height="100.6" fill="#196EA0"/>
-<text x="60.9" y="47.7" font-size="21.9">🌐</text>
-<text x="91.9" y="49.0" font-size="24.5" font-weight="700" fill="#17283A">SENAI</text>
-<text x="60.9" y="76.1" font-size="19.4" font-weight="500" fill="#2B3640">Técnico em Redes de</text>
-<text x="60.9" y="100.0" font-size="19.4" font-weight="500" fill="#2B3640">Comunicação</text>
-<text x="60.9" y="123.9" font-size="17.4" fill="#5A6876">2004–2007 · 3 anos</text>
-<line x1="461.6" y1="205.8" x2="461.6" y2="240.6" stroke="#17283A" stroke-width="1.9"/>
-<circle cx="461.6" cy="209.0" r="4.5" fill="#17283A"/>
-<rect x="332.5" y="240.6" width="3.9" height="124.5" fill="#17283A"/>
-<text x="340.2" y="262.6" font-size="21.9">🎓</text>
-<text x="371.2" y="263.9" font-size="24.5" font-weight="700" fill="#17283A">Anhembi Morumbi</text>
-<text x="340.2" y="291.0" font-size="19.4" font-weight="500" fill="#2B3640">Bacharelado em</text>
-<text x="340.2" y="314.8" font-size="19.4" font-weight="500" fill="#2B3640">Ciência da</text>
-<text x="340.2" y="338.7" font-size="19.4" font-weight="500" fill="#2B3640">Computação</text>
-<text x="340.2" y="362.6" font-size="17.4" fill="#5A6876">2007–2012 · 5 anos</text>
-<line x1="880.6" y1="185.2" x2="880.6" y2="126.5" stroke="#D6962A" stroke-width="1.9"/>
-<circle cx="880.6" cy="186.5" r="4.5" fill="#D6962A"/>
-<rect x="791.1" y="25.8" width="3.9" height="100.6" fill="#D6962A"/>
-<text x="798.9" y="47.7" font-size="21.9">🎓</text>
-<text x="829.8" y="49.0" font-size="24.5" font-weight="700" fill="#17283A">UNICAMP</text>
-<text x="798.9" y="76.1" font-size="19.4" font-weight="500" fill="#2B3640">Especialização em</text>
-<text x="798.9" y="100.0" font-size="19.4" font-weight="500" fill="#2B3640">Governança de TI</text>
-<text x="798.9" y="123.9" font-size="17.4" fill="#5A6876">2014–2015</text>
+<svg width="100%" viewBox="0 0 1550 434" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif">
+<rect width="1550" height="434" fill="#ffffff"/>
+<text x="60.0" y="246" font-size="25" fill="#5A6876" text-anchor="middle">2004</text>
+<text x="298.3" y="246" font-size="25" fill="#5A6876" text-anchor="middle">2006</text>
+<text x="536.7" y="246" font-size="25" fill="#5A6876" text-anchor="middle">2008</text>
+<text x="775.0" y="246" font-size="25" fill="#5A6876" text-anchor="middle">2010</text>
+<text x="1013.3" y="246" font-size="25" fill="#5A6876" text-anchor="middle">2012</text>
+<text x="1251.7" y="246" font-size="25" fill="#5A6876" text-anchor="middle">2014</text>
+<text x="1490.0" y="246" font-size="25" fill="#5A6876" text-anchor="middle">2016</text>
+<rect x="60" y="194" width="1430" height="12" rx="6" fill="#EAEFF3"/>
+<rect x="60.0" y="186" width="357.5" height="28" rx="14" fill="#196EA0"/>
+<rect x="1251.7" y="186" width="226.4" height="28" rx="14" fill="#D6962A"/>
+<rect x="417.5" y="186" width="595.8" height="28" rx="14" fill="#17283A"/>
+<rect x="78.0" y="20" width="679.0" height="110" rx="10" fill="#F6F8FA"/><rect x="78.0" y="20" width="6" height="110" rx="3" fill="#196EA0"/>
+<path d="M111.0 47.6 L111.0 36.5 M111.0 47.6 L99.6 57.5 M111.0 47.6 L122.4 57.5" fill="none" stroke="#196EA0" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><circle cx="111.0" cy="36.5" r="5" fill="#fff" stroke="#196EA0" stroke-width="3"/><circle cx="99.6" cy="57.5" r="5" fill="#fff" stroke="#196EA0" stroke-width="3"/><circle cx="122.4" cy="57.5" r="5" fill="#fff" stroke="#196EA0" stroke-width="3"/><circle cx="111.0" cy="47.6" r="5" fill="#fff" stroke="#196EA0" stroke-width="3"/>
+<text x="136.0" y="57" font-size="34" font-weight="700" fill="#17283A">SENAI</text>
+<text x="96.0" y="92" font-size="27" font-weight="500" fill="#2B3640">Técnico em Redes de Comunicação</text>
+<text x="96.0" y="126" font-size="25" fill="#5A6876">2004 – 2007 · 3 anos</text>
+<path d="M417.5 130 V158.0 H238.8 V184" fill="none" stroke="#196EA0" stroke-width="3"/><circle cx="238.8" cy="184" r="6" fill="#196EA0"/>
+<rect x="793.0" y="20" width="679.0" height="110" rx="10" fill="#F6F8FA"/><rect x="793.0" y="20" width="6" height="110" rx="3" fill="#D6962A"/>
+<path d="M811.0 43.4 L826.0 36.5 L841.0 43.4 L826.0 50.0 Z M817.6 47.0 V55.400000000000006 L826.0 59.0 L834.4 55.400000000000006 V47.0" fill="none" stroke="#D6962A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="851.0" y="57" font-size="34" font-weight="700" fill="#17283A">UNICAMP</text>
+<text x="811.0" y="92" font-size="27" font-weight="500" fill="#2B3640">Especialização em Governança de TI</text>
+<text x="811.0" y="126" font-size="25" fill="#5A6876">2014 – 2015</text>
+<path d="M1132.5 130 V158.0 H1364.9 V184" fill="none" stroke="#D6962A" stroke-width="3"/><circle cx="1364.9" cy="184" r="6" fill="#D6962A"/>
+<rect x="435.5" y="304" width="679.0" height="110" rx="10" fill="#F6F8FA"/><rect x="435.5" y="304" width="6" height="110" rx="3" fill="#17283A"/>
+<path d="M453.5 327.4 L468.5 320.5 L483.5 327.4 L468.5 334.0 Z M460.1 331.0 V339.4 L468.5 343.0 L476.9 339.4 V331.0" fill="none" stroke="#17283A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="493.5" y="341" font-size="34" font-weight="700" fill="#17283A">Anhembi Morumbi</text>
+<text x="453.5" y="376" font-size="27" font-weight="500" fill="#2B3640">Bacharelado em Ciência da Computação</text>
+<text x="453.5" y="410" font-size="25" fill="#5A6876">2007 – 2012 · 5 anos</text>
+<path d="M775.0 304 V278.0 H715.4 V216" fill="none" stroke="#17283A" stroke-width="3"/><circle cx="715.4" cy="216" r="6" fill="#17283A"/>
 </svg>
 
-## 🎓 FORMAÇÃO ACADÊMICA
+<a id="edu-unicamp"></a>
+## 🎓 UNICAMP — UNIVERSIDADE ESTADUAL DE CAMPINAS
+[unicamp.br](https://www.unicamp.br/) · Universidade pública · Campinas · SP
 
-**Especialização em Governança de Tecnologia da Informação** — UNICAMP · 2014–2015
+### Especialização em Governança de Tecnologia da Informação
+*2014 – 2015 · Pós-graduação lato sensu*
 
-**📚 Disciplinas:** `Dimensões da Governança de TI` `Planejamento Estratégico de TI` `Concepção de Projetos de TI` `Modelos de Gestão e Administração` `Gestão de Informações` `Gestão do Conhecimento` `Qualidade do Produto Software` `Gestão de Serviços de TI` `Gestão de Finanças e Custos` `Engenharia e Gestão de Processos` `Gestão da Inovação Tecnológica` `Modelo de Maturidade Baseado em Processos` `Gestão de Projetos em TI` `Gestão da Segurança de TI e Continuidade`
+**📚 Disciplinas**
+- **Governança e estratégia:** Dimensões da Governança de TI · Planejamento Estratégico de TI · Modelos de Gestão e Administração · Gestão da Inovação Tecnológica
+- **Gestão de TI:** Gestão de Serviços de TI · Gestão de Projetos em TI · Concepção de Projetos de TI · Gestão de Finanças e Custos
+- **Informação e conhecimento:** Gestão de Informações · Gestão do Conhecimento
+- **Qualidade, processos e segurança:** Qualidade do Produto Software · Engenharia e Gestão de Processos · Modelo de Maturidade Baseado em Processos · Gestão da Segurança de TI e Continuidade
 
-**💡 Habilidades Desenvolvidas:** Avaliação estratégica de sistemas e processos de negócio; definição e acompanhamento de indicadores de governança de TI; concepção e coordenação de projetos sistêmicos complexos; otimização de suporte aos processos de negócio com foco em qualidade, produtividade e ética; proposição de soluções inovadoras para desafios organizacionais e de arquitetura de dados.
+**💡 Habilidades desenvolvidas**
+- Avaliação estratégica de sistemas e processos de negócio.
+- Definição e acompanhamento de indicadores de governança de TI.
+- Concepção e coordenação de projetos sistêmicos complexos.
+- Otimização do suporte aos processos de negócio, com foco em qualidade, produtividade e ética.
+- Proposição de soluções inovadoras para desafios organizacionais e de arquitetura de dados.
 
 ---
 
-**Bacharel em Ciência da Computação** *(ênfase em Desenvolvimento de Software)* — Universidade Anhembi Morumbi · 2007–2012
+<a id="edu-anhembi"></a>
+## 🎓 UNIVERSIDADE ANHEMBI MORUMBI
+[anhembi.br](https://portal.anhembi.br/) · Universidade privada · São Paulo · SP
 
-**📚 Disciplinas:** `Arquitetura e Organização de Computadores` `Sistemas Operacionais` `Engenharia e Desenvolvimento de Software` `Qualidade e Teste de Software` `Estrutura de Dados` `Base de Dados` `Técnicas de Pesquisa, Ordenação e Armazenamento` `Modelagem Orientada a Objetos` `Redes de Computadores` `Sistemas Distribuídos` `Inteligência Artificial` `Compiladores` `Computação Móvel, Gráfica e Realidade Virtual` `Empreendedorismo e Sustentabilidade`
+### Bacharelado em Ciência da Computação
+*2007 – 2012 · Graduação · Ênfase em Desenvolvimento de Software*
 
-**💡 Habilidades Desenvolvidas:** Diagnóstico de problemas complexos e coordenação de projetos computacionais; seleção, implantação e manutenção de sistemas corporativos; desenvolvimento avançado de software; aplicação de tecnologia computacional em áreas multidisciplinares.
+**📚 Disciplinas**
+- **Engenharia de software:** Engenharia e Desenvolvimento de Software · Qualidade e Teste de Software · Modelagem Orientada a Objetos · Compiladores
+- **Fundamentos de computação:** Arquitetura e Organização de Computadores · Sistemas Operacionais · Estrutura de Dados · Técnicas de Pesquisa, Ordenação e Armazenamento
+- **Dados, redes e sistemas distribuídos:** Base de Dados · Redes de Computadores · Sistemas Distribuídos
+- **Tecnologias emergentes e negócios:** Inteligência Artificial · Computação Móvel, Gráfica e Realidade Virtual · Empreendedorismo e Sustentabilidade
+
+**💡 Habilidades desenvolvidas**
+- Diagnóstico de problemas complexos e coordenação de projetos computacionais.
+- Seleção, implantação e manutenção de sistemas corporativos.
+- Desenvolvimento avançado de software.
+- Aplicação de tecnologia computacional em áreas multidisciplinares.
 
 ---
 
-**Técnico em Informática** *(ênfase em Redes de Computadores)* — SENAI Suíço-Brasileiro · 2004–2007
+<a id="edu-senai"></a>
+## 🎓 SENAI SUÍÇO-BRASILEIRO
+[sp.senai.br](https://www.sp.senai.br/) · Escola técnica · São Paulo · SP
 
-**📚 Disciplinas:** `Lógica e Linguagem de Programação` `Base de Dados` `Produtos Eletrônicos` `Manutenção de Sistemas de Microcomputador` `Sistemas Operacionais` `Redes de Computadores Locais` `Administração da Internet` `Programação de Sites` `Segurança em Redes de Comunicação` `Gestão do Trabalho` `Cabeamento Estruturado` `Projetos em Redes de Comunicação`
+### Técnico em Informática
+*2004 – 2007 · Curso técnico · Ênfase em Redes de Computadores*
 
-**💡 Habilidades Desenvolvidas:** Projeto, implementação e manutenção de infraestrutura de redes locais e cabeamento estruturado; diagnóstico preventivo e corretivo de hardware, componentes eletrônicos e sistemas operacionais; aplicação de rotinas de segurança em redes e administração de serviços de internet; desenvolvimento de lógica de programação, modelagem de banco de dados e aplicações web; gestão operacional de TI e coordenação técnica de projetos de conectividade.
+**📚 Disciplinas**
+- **Redes e infraestrutura:** Redes de Computadores Locais · Cabeamento Estruturado · Projetos em Redes de Comunicação · Segurança em Redes de Comunicação · Administração da Internet
+- **Sistemas e hardware:** Sistemas Operacionais · Manutenção de Sistemas de Microcomputador · Produtos Eletrônicos
+- **Desenvolvimento:** Lógica e Linguagem de Programação · Base de Dados · Programação de Sites
+- **Gestão:** Gestão do Trabalho
+
+**💡 Habilidades desenvolvidas**
+- Projeto, implementação e manutenção de redes locais e cabeamento estruturado.
+- Diagnóstico preventivo e corretivo de hardware, componentes eletrônicos e sistemas operacionais.
+- Rotinas de segurança em redes e administração de serviços de internet.
+- Lógica de programação, modelagem de banco de dados e aplicações web.
+- Gestão operacional de TI e coordenação técnica de projetos de conectividade.
 
 ---
 
@@ -570,7 +603,7 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 
 <a id="competencias"></a>
 
-**Idiomas:** Português nativo · Inglês básico/técnico (em desenvolvimento) · Espanhol básico
+**Idiomas:** Português nativo · Inglês técnico (leitura e escrita), com conversação em aperfeiçoamento · Espanhol básico
 
 ---
 
@@ -578,69 +611,239 @@ Líder de tecnologia e arquiteto corporativo com **mais de 20 anos em TI**, send
 
 # 07 · PORTFÓLIO DE PROJETOS
 
+### Roadmap dos projetos
+
+<svg width="100%" viewBox="0 0 1100 1353" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Sans, Segoe UI, Arial, sans-serif">
+<rect width="1100" height="1353" fill="#ffffff"/>
+<rect x="10" y="10" width="12" height="12" rx="3" fill="#17283A"/><text x="27" y="20" font-size="12" fill="#2B3640">Estratégia &amp; Arquitetura</text>
+<rect x="190" y="10" width="12" height="12" rx="3" fill="#1F8CBE"/><text x="207" y="20" font-size="12" fill="#2B3640">Plataformas &amp; Integração</text>
+<rect x="379" y="10" width="12" height="12" rx="3" fill="#6C7CFF"/><text x="396" y="20" font-size="12" fill="#2B3640">Produtos Digitais</text>
+<rect x="518" y="10" width="12" height="12" rx="3" fill="#2F7A55"/><text x="535" y="20" font-size="12" fill="#2B3640">Cloud, Segurança &amp; Ops</text>
+<rect x="698" y="10" width="12" height="12" rx="3" fill="#D6962A"/><text x="715" y="20" font-size="12" fill="#2B3640">Liderança &amp; Pessoas</text>
+<rect x="857" y="10" width="12" height="12" rx="3" fill="#B04A8C"/><text x="874" y="20" font-size="12" fill="#2B3640">Dados &amp; IA</text>
+<line x1="390.0" y1="64" x2="390.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="405.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2004</text>
+<line x1="420.0" y1="64" x2="420.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="450.0" y1="64" x2="450.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="465.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2006</text>
+<line x1="480.0" y1="64" x2="480.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="510.0" y1="64" x2="510.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="525.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2008</text>
+<line x1="540.0" y1="64" x2="540.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="570.0" y1="64" x2="570.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="585.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2010</text>
+<line x1="600.0" y1="64" x2="600.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="630.0" y1="64" x2="630.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="645.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2012</text>
+<line x1="660.0" y1="64" x2="660.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="690.0" y1="64" x2="690.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="705.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2014</text>
+<line x1="720.0" y1="64" x2="720.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="750.0" y1="64" x2="750.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="765.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2016</text>
+<line x1="780.0" y1="64" x2="780.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="810.0" y1="64" x2="810.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="825.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2018</text>
+<line x1="840.0" y1="64" x2="840.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="870.0" y1="64" x2="870.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="885.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2020</text>
+<line x1="900.0" y1="64" x2="900.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="930.0" y1="64" x2="930.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="945.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2022</text>
+<line x1="960.0" y1="64" x2="960.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="990.0" y1="64" x2="990.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="1005.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2024</text>
+<line x1="1020.0" y1="64" x2="1020.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<line x1="1050.0" y1="64" x2="1050.0" y2="1323" stroke="#D3DBE1" stroke-width="1"/>
+<text x="1065.0" y="58" font-size="12" fill="#5A6876" text-anchor="middle">2026</text>
+<line x1="1080.0" y1="64" x2="1080.0" y2="1323" stroke="#EEF2F5" stroke-width="1"/>
+<rect x="0" y="80" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="93" font-size="13" font-weight="700" fill="#17283A">YDUQS</text>
+<text x="10" y="111" font-size="12" font-weight="700" fill="#C98A1E">P02</text><text x="46" y="111" font-size="12.5" fill="#2B3640">Iniciativas de IA Generativa e Agêntica</text>
+<rect x="1020.0" y="101" width="59.7" height="12" rx="5" fill="#B04A8C"/>
+<text x="10" y="130" font-size="12" font-weight="700" fill="#C98A1E">P05</text><text x="46" y="130" font-size="12.5" fill="#2B3640">Novo SIA — Sistema de Informações Acadêmicas</text>
+<rect x="1020.0" y="120" width="59.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="149" font-size="12" font-weight="700" fill="#C98A1E">P13</text><text x="46" y="149" font-size="12.5" fill="#2B3640">Plano Diretor de TI (PDTI) 2026</text>
+<rect x="1020.0" y="139" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="168" font-size="12" font-weight="700" fill="#C98A1E">P16</text><text x="46" y="168" font-size="12.5" fill="#2B3640">SAP ERP — Customização, Conformidade Fiscal e Migr…</text>
+<rect x="1020.0" y="158" width="59.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="187" font-size="12" font-weight="700" fill="#C98A1E">P20</text><text x="46" y="187" font-size="12.5" fill="#2B3640">Novo Billing com Oracle BRM</text>
+<rect x="1020.0" y="177" width="59.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="206" font-size="12" font-weight="700" fill="#C98A1E">P21</text><text x="46" y="206" font-size="12.5" fill="#2B3640">Programa de Adequação à Reforma Tributária (CBS/IBS)</text>
+<rect x="1020.0" y="196" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="225" font-size="12" font-weight="700" fill="#C98A1E">P27</text><text x="46" y="225" font-size="12.5" fill="#2B3640">SIEM Corporativo com Microsoft Sentinel</text>
+<rect x="1020.0" y="215" width="59.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="244" font-size="12" font-weight="700" fill="#C98A1E">P30</text><text x="46" y="244" font-size="12.5" fill="#2B3640">Plataforma de Empregabilidade</text>
+<rect x="1020.0" y="234" width="59.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="263" font-size="12" font-weight="700" fill="#C98A1E">P09</text><text x="46" y="263" font-size="12.5" fill="#2B3640">Enturmação Automatizada com IA e Pesquisa Operaci…</text>
+<rect x="990.0" y="253" width="59.7" height="12" rx="5" fill="#B04A8C"/>
+<text x="10" y="282" font-size="12" font-weight="700" fill="#C98A1E">P26</text><text x="46" y="282" font-size="12.5" fill="#2B3640">SIRIUS — Sistema de Avaliação Acadêmica</text>
+<rect x="990.0" y="272" width="59.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="301" font-size="12" font-weight="700" fill="#C98A1E">P35</text><text x="46" y="301" font-size="12.5" fill="#2B3640">Canais Digitais de Atendimento</text>
+<rect x="990.0" y="291" width="89.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="320" font-size="12" font-weight="700" fill="#C98A1E">P10</text><text x="46" y="320" font-size="12.5" fill="#2B3640">Broker de Pagamentos</text>
+<rect x="960.0" y="310" width="89.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="339" font-size="12" font-weight="700" fill="#C98A1E">P04</text><text x="46" y="339" font-size="12.5" fill="#2B3640">Evolução e Migração de CDNs para Amazon CloudFront</text>
+<rect x="930.0" y="329" width="119.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="358" font-size="12" font-weight="700" fill="#C98A1E">P06</text><text x="46" y="358" font-size="12.5" fill="#2B3640">Gibraltar — Data Lakehouse Corporativo</text>
+<rect x="930.0" y="348" width="149.7" height="12" rx="5" fill="#B04A8C"/>
+<text x="10" y="377" font-size="12" font-weight="700" fill="#C98A1E">P11</text><text x="46" y="377" font-size="12.5" fill="#2B3640">Portal de Polos</text>
+<rect x="930.0" y="367" width="119.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="396" font-size="12" font-weight="700" fill="#C98A1E">P23</text><text x="46" y="396" font-size="12.5" fill="#2B3640">Implementação do ServiceNow</text>
+<rect x="930.0" y="386" width="89.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="415" font-size="12" font-weight="700" fill="#C98A1E">P25</text><text x="46" y="415" font-size="12.5" fill="#2B3640">Arquitetura de Produtos Acadêmicos Próprios</text>
+<rect x="930.0" y="405" width="149.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="434" font-size="12" font-weight="700" fill="#C98A1E">P33</text><text x="46" y="434" font-size="12.5" fill="#2B3640">Portais Digitais</text>
+<rect x="930.0" y="424" width="89.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="453" font-size="12" font-weight="700" fill="#C98A1E">P34</text><text x="46" y="453" font-size="12.5" fill="#2B3640">Aplicativos Mobile para Alunos e Docentes</text>
+<rect x="930.0" y="443" width="119.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="472" font-size="12" font-weight="700" fill="#C98A1E">P01</text><text x="46" y="472" font-size="12.5" fill="#2B3640">Estruturação da Prática de Arquitetura Corporativa</text>
+<rect x="900.0" y="462" width="179.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="491" font-size="12" font-weight="700" fill="#C98A1E">P07</text><text x="46" y="491" font-size="12.5" fill="#2B3640">Programa de Modernização de Sistemas Legados</text>
+<rect x="900.0" y="481" width="179.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="510" font-size="12" font-weight="700" fill="#C98A1E">P08</text><text x="46" y="510" font-size="12.5" fill="#2B3640">Plataforma de Integração Corporativa</text>
+<rect x="900.0" y="500" width="59.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="529" font-size="12" font-weight="700" fill="#C98A1E">P17</text><text x="46" y="529" font-size="12.5" fill="#2B3640">Implementação do Salesforce</text>
+<rect x="900.0" y="519" width="149.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="548" font-size="12" font-weight="700" fill="#C98A1E">P18</text><text x="46" y="548" font-size="12.5" fill="#2B3640">Estratégia Multicloud</text>
+<rect x="900.0" y="538" width="89.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="567" font-size="12" font-weight="700" fill="#C98A1E">P19</text><text x="46" y="567" font-size="12.5" fill="#2B3640">Observabilidade Unificada com Elastic</text>
+<rect x="900.0" y="557" width="89.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="586" font-size="12" font-weight="700" fill="#C98A1E">P22</text><text x="46" y="586" font-size="12.5" fill="#2B3640">Repositório Corporativo de Arquitetura &amp; POC do LeanIX</text>
+<rect x="900.0" y="576" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="605" font-size="12" font-weight="700" fill="#C98A1E">P31</text><text x="46" y="605" font-size="12.5" fill="#2B3640">Avaliação da Arquitetura dos Sistemas de RH/HCM</text>
+<rect x="900.0" y="595" width="89.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="624" font-size="12" font-weight="700" fill="#C98A1E">P36</text><text x="46" y="624" font-size="12.5" fill="#2B3640">Renova — Portal de Rematrícula</text>
+<rect x="900.0" y="614" width="89.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="643" font-size="12" font-weight="700" fill="#C98A1E">P03</text><text x="46" y="643" font-size="12.5" fill="#2B3640">M&amp;A — Avaliação, Absorção e Padronização das Empre…</text>
+<rect x="870.0" y="633" width="209.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="662" font-size="12" font-weight="700" fill="#C98A1E">P12</text><text x="46" y="662" font-size="12.5" fill="#2B3640">Estruturação e Gestão do Time de Arquitetura</text>
+<rect x="870.0" y="652" width="59.7" height="12" rx="5" fill="#D6962A"/>
+<text x="10" y="681" font-size="12" font-weight="700" fill="#C98A1E">P15</text><text x="46" y="681" font-size="12.5" fill="#2B3640">SAVA — Sala de Aula Virtual (LMS próprio)</text>
+<rect x="870.0" y="671" width="149.7" height="12" rx="5" fill="#6C7CFF"/>
+<text x="10" y="700" font-size="12" font-weight="700" fill="#C98A1E">P28</text><text x="46" y="700" font-size="12.5" fill="#2B3640">Joana — Repositório de Conteúdos Acadêmicos do Ens…</text>
+<rect x="870.0" y="690" width="89.7" height="12" rx="5" fill="#6C7CFF"/>
+<rect x="0" y="707" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="720" font-size="13" font-weight="700" fill="#17283A">Adtalem</text>
+<text x="10" y="738" font-size="12" font-weight="700" fill="#C98A1E">P14</text><text x="46" y="738" font-size="12.5" fill="#2B3640">M&amp;A Adtalem → YDUQS</text>
+<rect x="840.0" y="728" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="757" font-size="12" font-weight="700" fill="#C98A1E">P37</text><text x="46" y="757" font-size="12.5" fill="#2B3640">Criação da Área de Arquitetura de TI &amp; ARB</text>
+<rect x="840.0" y="747" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="776" font-size="12" font-weight="700" fill="#C98A1E">P40</text><text x="46" y="776" font-size="12.5" fill="#2B3640">Arquitetura de Integrações &amp; Cultura Digital</text>
+<rect x="840.0" y="766" width="59.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="795" font-size="12" font-weight="700" fill="#C98A1E">P46</text><text x="46" y="795" font-size="12.5" fill="#2B3640">Discovery &amp; Assessment do Ecossistema de TI</text>
+<rect x="840.0" y="785" width="59.7" height="12" rx="5" fill="#17283A"/>
+<rect x="0" y="802" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="815" font-size="13" font-weight="700" fill="#17283A">CETRUS</text>
+<text x="10" y="833" font-size="12" font-weight="700" fill="#C98A1E">P29</text><text x="46" y="833" font-size="12.5" fill="#2B3640">Credenciamento MEC com Nota Máxima (5/5)</text>
+<rect x="810.0" y="823" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="852" font-size="12" font-weight="700" fill="#C98A1E">P32</text><text x="46" y="852" font-size="12.5" fill="#2B3640">Governança de TI, Riscos &amp; Segurança da Informação</text>
+<rect x="810.0" y="842" width="59.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="871" font-size="12" font-weight="700" fill="#C98A1E">P47</text><text x="46" y="871" font-size="12.5" fill="#2B3640">Modernização de Rede e Infraestrutura</text>
+<rect x="780.0" y="861" width="89.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="890" font-size="12" font-weight="700" fill="#C98A1E">P39</text><text x="46" y="890" font-size="12.5" fill="#2B3640">‍ Transformação da Área de TI</text>
+<rect x="750.0" y="880" width="119.7" height="12" rx="5" fill="#D6962A"/>
+<text x="10" y="909" font-size="12" font-weight="700" fill="#C98A1E">P45</text><text x="46" y="909" font-size="12.5" fill="#2B3640">Novo Ecossistema Administrativo &amp; Acadêmico</text>
+<rect x="750.0" y="899" width="119.7" height="12" rx="5" fill="#1F8CBE"/>
+<rect x="0" y="916" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="929" font-size="13" font-weight="700" fill="#17283A">B2W Digital</text>
+<text x="10" y="947" font-size="12" font-weight="700" fill="#C98A1E">P42</text><text x="46" y="947" font-size="12.5" fill="#2B3640">Otimização de Contratos de Fornecedores de TI</text>
+<rect x="690.0" y="937" width="89.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="966" font-size="12" font-weight="700" fill="#C98A1E">P38</text><text x="46" y="966" font-size="12.5" fill="#2B3640">Comitê de Automação de Processos (CAP)</text>
+<rect x="660.0" y="956" width="119.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="985" font-size="12" font-weight="700" fill="#C98A1E">P24</text><text x="46" y="985" font-size="12.5" fill="#2B3640">Seleção Global de Plataforma ITSM e Implantação do …</text>
+<rect x="570.0" y="975" width="89.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="1004" font-size="12" font-weight="700" fill="#C98A1E">P43</text><text x="46" y="1004" font-size="12.5" fill="#2B3640">Framework de Governança de TI e Catálogo de Serviços</text>
+<rect x="570.0" y="994" width="119.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="1023" font-size="12" font-weight="700" fill="#C98A1E">P48</text><text x="46" y="1023" font-size="12.5" fill="#2B3640">Implantação dos Processos ITIL e da Gestão de Config…</text>
+<rect x="540.0" y="1013" width="59.7" height="12" rx="5" fill="#17283A"/>
+<rect x="0" y="1030" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="1043" font-size="13" font-weight="700" fill="#17283A">Lan Designers</text>
+<text x="10" y="1061" font-size="12" font-weight="700" fill="#C98A1E">P53</text><text x="46" y="1061" font-size="12.5" fill="#2B3640">Automação de Processos de TI com ASK Business Desk</text>
+<rect x="510.0" y="1051" width="59.7" height="12" rx="5" fill="#1F8CBE"/>
+<text x="10" y="1080" font-size="12" font-weight="700" fill="#C98A1E">P52</text><text x="46" y="1080" font-size="12.5" fill="#2B3640">Fusão Submarino + Americanas</text>
+<rect x="480.0" y="1070" width="59.7" height="12" rx="5" fill="#2F7A55"/>
+<rect x="0" y="1087" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="1100" font-size="13" font-weight="700" fill="#17283A">Paterno</text>
+<text x="10" y="1118" font-size="12" font-weight="700" fill="#C98A1E">P55</text><text x="46" y="1118" font-size="12.5" fill="#2B3640">Criação da Infraestrutura de Servidores e Rede</text>
+<rect x="450.0" y="1108" width="59.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="1137" font-size="12" font-weight="700" fill="#C98A1E">P56</text><text x="46" y="1137" font-size="12.5" fill="#2B3640">Automação do Processamento de Dados de Cobrança …</text>
+<rect x="450.0" y="1127" width="59.7" height="12" rx="5" fill="#2F7A55"/>
+<rect x="0" y="1144" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="1157" font-size="13" font-weight="700" fill="#17283A">Kioske Fazendinha</text>
+<text x="10" y="1175" font-size="12" font-weight="700" fill="#C98A1E">P57</text><text x="46" y="1175" font-size="12.5" fill="#2B3640">Informatização e Presença Digital do Negócio</text>
+<rect x="390.0" y="1165" width="89.7" height="12" rx="5" fill="#6C7CFF"/>
+<rect x="0" y="1182" width="1100" height="17" fill="#F1F5F8"/><text x="10" y="1195" font-size="13" font-weight="700" fill="#17283A">Congregação Cristã no Brasil (voluntariado)</text>
+<text x="10" y="1213" font-size="12" font-weight="700" fill="#C98A1E">P44</text><text x="46" y="1213" font-size="12.5" fill="#2B3640">Plano Diretor de TI (PDTI)</text>
+<rect x="1020.0" y="1203" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="1232" font-size="12" font-weight="700" fill="#C98A1E">P50</text><text x="46" y="1232" font-size="12.5" fill="#2B3640">Infraestrutura Híbrida e Colaboração (Azure &amp; Microso…</text>
+<rect x="960.0" y="1222" width="59.7" height="12" rx="5" fill="#2F7A55"/>
+<text x="10" y="1251" font-size="12" font-weight="700" fill="#C98A1E">P41</text><text x="46" y="1251" font-size="12.5" fill="#2B3640">‍ Rede de Multiplicadores e Modelo de Suporte Regional</text>
+<rect x="930.0" y="1241" width="149.7" height="12" rx="5" fill="#D6962A"/>
+<text x="10" y="1270" font-size="12" font-weight="700" fill="#C98A1E">P51</text><text x="46" y="1270" font-size="12.5" fill="#2B3640">Comitê de Governança, Arquitetura e Segurança da Ma…</text>
+<rect x="900.0" y="1260" width="59.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="1289" font-size="12" font-weight="700" fill="#C98A1E">P49</text><text x="46" y="1289" font-size="12.5" fill="#2B3640">Gestão de Ativos, Compras e Auditorias de TI da Regio…</text>
+<rect x="750.0" y="1279" width="329.7" height="12" rx="5" fill="#17283A"/>
+<text x="10" y="1308" font-size="12" font-weight="700" fill="#C98A1E">P54</text><text x="46" y="1308" font-size="12.5" fill="#2B3640">Gestão Administrativa e Financeira da Unidade Local</text>
+<rect x="510.0" y="1298" width="389.7" height="12" rx="5" fill="#D6962A"/>
+<text x="1080" y="1341" font-size="11" fill="#8A96A3" text-anchor="end">Barras: período de atuação em cada projeto · cores: pilar</text></svg>
+
 Os 57 projetos que detalham as experiências, ordenados por relevância no índice abaixo. Clique no nome para abrir o projeto; em cada projeto, **↑** volta a este índice e **Empresa ↩** volta à experiência correspondente.
 
 *Pilares: Estratégia & Arquitetura (EA, PDTI, M&A, governança) · Dados & IA · Produtos Digitais · Plataformas & Integração · Cloud, Segurança & Ops (SRE, FinOps, SIEM) · Liderança & Pessoas. Atuação: Liderança direta · Liderança do time · Governança · Execução. Relevância: ★★★ alta · ★★ média · ★ complementar.*
 
 | Projeto | Empresa | Período | Pilar | Atuação | Destaque | Tecnologias-chave | Relev. |
 |---|---|---|---|---|---|---|---|
-| [Estruturação da Prática de Arquitetura Corporativa](#proj-ea-corporativa) | YDUQS | 2021–2026 | Estratégia & Arquitetura | Liderança direta | 600+ aplicações mapeadas e governadas | TOGAF, ArchiMate, LeanIX (POC) | ★★★ |
-| [Iniciativas de IA Generativa e Agêntica](#proj-ia-generativa) | YDUQS | 2024–2026 | Dados & IA | Liderança direta | 4 provedores de LLM e POCs em produção | LLMs, RAG, MCP | ★★★ |
-| [M&A — Avaliação, Absorção e Padronização das Empresas Adquiridas](#proj-ma-yduqs) | YDUQS | 2020–2026 | Estratégia & Arquitetura | Liderança direta | −55% de aplicações redundantes | TOGAF, Entra ID (SSO), modelo TIME | ★★★ |
-| [Evolução e Migração de CDNs para Amazon CloudFront](#proj-cdn-cloudfront) | YDUQS | 2022–2025 | Cloud, Segurança & Ops | Liderança direta | −90% no custo de entrega | Amazon CloudFront, Amazon S3, HLS | ★★★ |
-| [Novo SIA — Sistema de Informações Acadêmicas](#proj-sia) | YDUQS | 2024–2026 | Produtos Digitais | Liderança direta | Novo sistema acadêmico para 1,3M+ alunos | DDD, Strangler Fig, Apache Kafka | ★★★ |
-| [Gibraltar — Data Lakehouse Corporativo](#proj-gibraltar) | YDUQS | 2022–2024 | Dados & IA | Liderança direta | Lakehouse corporativo com Databricks | Databricks, Unity Catalog, Azure | ★★★ |
-| [Programa de Modernização de Sistemas Legados](#proj-modernizacao-legados) | YDUQS | 2021–2026 | Plataformas & Integração | Liderança direta | Monolitos críticos desacoplados | Microsserviços, MuleSoft, Apache Kafka | ★★★ |
-| [Plataforma de Integração Corporativa — MuleSoft e Amazon API Gateway](#proj-integracao-corporativa) | YDUQS | 2021–2026 | Plataformas & Integração | Liderança direta | 1K+ APIs governadas | MuleSoft, Amazon API Gateway, Apache Kafka | ★★★ |
-| [Enturmação Automatizada com IA e Pesquisa Operacional — Integração SIA × UniSoma](#proj-enturmacao) | YDUQS | 2023–2025 | Dados & IA | Liderança direta | Planejamento de 3+ meses para ~1 mês | AWS Step Functions, Pesquisa Operacional, UniSoma | ★★★ |
-| [Broker de Pagamentos](#proj-broker-pagamentos) | YDUQS | 2023–2026 | Plataformas & Integração | Liderança direta | R$ 3B+/ano com escopo PCI reduzido | Akamai EdgeWorkers, Azure, PCI DSS | ★★★ |
-| [Portal de Polos — Canal Digital da Rede EaD](#proj-portal-polos) | YDUQS | 2020–2026 | Produtos Digitais | Liderança direta | Polos de 1K+ para 2K+; IA 5x | Node.js, React, Spec-Driven Development | ★★★ |
-| [Estruturação e Gestão do Time de Arquitetura](#proj-time-arquitetura) | YDUQS | 2020–2026 | Liderança & Pessoas | Liderança direta | Time de 12 posições sêniores | Matriz de competências, carreira em Y, OKR | ★★★ |
-| [Plano Diretor de TI (PDTI) 2026–2030](#proj-pdti-yduqs) | YDUQS | 2025–2026 | Estratégia & Arquitetura | Liderança direta | Plano 2026–2030 com IA, dados e produtos | TOGAF, COBIT 2019, Technology Radar | ★★★ |
-| [M&A Adtalem → YDUQS — Due Diligence & Integração Sistêmica](#proj-adtalem-integracao) | Adtalem | 2019–2020 | Estratégia & Arquitetura | Execução | R$ 20M/ano em sinergias mapeadas | Due diligence, ISO 27001, LGPD | ★★★ |
-| [SAVA — Sala de Aula Virtual (LMS próprio)](#proj-sava) | YDUQS | 2020–2024 | Produtos Digitais | Liderança direta | 750 mil alunos ativos/mês; app 4,7 | React, Node.js, MongoDB Atlas | ★★★ |
-| [SAP ERP — Customização, Conformidade Fiscal e Migração para S/4HANA](#proj-sap-erp) | YDUQS | 2025–2026 | Plataformas & Integração | Liderança direta | −40% de impacto no núcleo do ERP | SAP S/4HANA, SAP BTP, Clean Core | ★★★ |
-| [Implementação do Salesforce](#proj-salesforce) | YDUQS | 2020–2025 | Plataformas & Integração | Liderança direta | +18% de conversão de leads | Sales e Service Cloud, Vlocity, Marketing Cloud | ★★★ |
-| [Estratégia Multicloud — Arquitetura, Migração de Workloads e Continuidade](#proj-multicloud) | YDUQS | 2021–2026 | Cloud, Segurança & Ops | Liderança direta | 4 nuvens com DR e FinOps | AWS, Azure, Terraform | ★★★ |
-| [Observabilidade Unificada com Elastic — Consolidação de Ferramentas](#proj-observabilidade-elastic) | YDUQS | 2021–2023 | Cloud, Segurança & Ops | Liderança direta | −40% em licenças; −50% MTTR | Elastic Stack, OpenTelemetry, Kibana | ★★★ |
-| [Novo Billing com Oracle BRM](#proj-billing-brm) | YDUQS | 2023–2026 | Plataformas & Integração | Liderança direta | 2M+ faturas/mês no Oracle BRM | Oracle BRM, SAP FI/CO, Synchro | ★★ |
-| [Programa de Adequação à Reforma Tributária (CBS/IBS)](#proj-reforma-tributaria) | YDUQS | 2025–2026 | Estratégia & Arquitetura | Liderança direta | Paralelismo CBS/IBS 2026–2033 | Synchro, Oracle BRM, SAP | ★★ |
-| [Repositório Corporativo de Arquitetura & POC do LeanIX](#proj-repositorio-ea) | YDUQS | 2021–2026 | Estratégia & Arquitetura | Liderança direta | −80% de esforço manual no inventário | EA4US, SAP LeanIX, ServiceNow APM | ★★ |
-| [Implementação do ServiceNow](#proj-servicenow) | YDUQS | 2022–2024 | Plataformas & Integração | Liderança direta | −30% no tempo de resolução | ITSM, CMDB/CSDM, APM | ★★ |
-| [Seleção Global de Plataforma ITSM e Implantação do ServiceNow](#proj-itsm-b2w) | B2W Digital | 2010–2012 | Plataformas & Integração | Liderança direta | R$ 1,8M/ano; SLA 47% → 89% | ServiceNow, ITIL v3, RFP | ★★ |
-| [Arquitetura de Produtos Acadêmicos Próprios](#proj-produtos-academicos) | YDUQS | 2022–2026 | Produtos Digitais | Liderança direta | −25% em licenças de terceiros | Microsserviços, APIs, Apache Kafka | ★★ |
-| [SIRIUS — Sistema de Avaliação Acadêmica](#proj-sirius) | YDUQS | 2024–2025 | Produtos Digitais | Liderança direta | 100K+ avaliações simultâneas | AWS, Redis, antifraude | ★★ |
-| [SIEM Corporativo com Microsoft Sentinel](#proj-siem-sentinel) | YDUQS | 2021–2026 | Cloud, Segurança & Ops | Liderança do time | SIEM corporativo centralizado | Microsoft Sentinel, KQL, Logic Apps | ★★ |
-| [Joana — Repositório de Conteúdos Acadêmicos do EnsineMe](#proj-joana) | YDUQS | 2020–2024 | Produtos Digitais | Liderança direta | Repositório único com VideoLib | VideoLib, Amazon S3, SCORM/xAPI | ★★ |
-| [Credenciamento MEC com Nota Máxima (5/5)](#proj-mec-cetrus) | CETRUS | 2018–2019 | Estratégia & Arquitetura | Liderança direta | Nota máxima (5/5) no MEC | ISO 27001, WCAG, e-MEC | ★ |
-| [Plataforma de Empregabilidade — Jornada do Aluno ao Mercado](#proj-empregabilidade) | YDUQS | 2025–2026 | Produtos Digitais | Liderança direta | +30% de oportunidades | Elasticsearch, IA (matching), APIs | ★ |
-| [Avaliação da Arquitetura dos Sistemas de RH/HCM — Gente & Gestão](#proj-rh-hcm) | YDUQS | 2021–2023 | Estratégia & Arquitetura | Liderança direta | Roadmap de RH/HCM aprovado pela liderança | ArchiMate, FIT/GAP, benchmark de HCM | ★ |
-| [Governança de TI, Riscos & Segurança da Informação](#proj-grc-cetrus) | CETRUS | 2016–2019 | Cloud, Segurança & Ops | Liderança direta | SGSI e continuidade de negócios | COBIT 5, ISO 27001, ISO 22301 | ★ |
-| [Portais Digitais — DXP com Strapi (Headless CMS)](#proj-portais-dxp) | YDUQS | 2022–2025 | Produtos Digitais | Liderança direta | +30% de jornadas sem atendimento | Strapi, Next.js, BFF | ★ |
-| [Aplicativos Mobile para Alunos e Docentes](#proj-apps-mobile) | YDUQS | 2022–2025 | Produtos Digitais | Liderança direta | +25% de usuários ativos | React Native, BFF, OAuth 2.0 | ★ |
-| [Canais Digitais de Atendimento — Avaya & Talkdesk × Salesforce](#proj-canais-digitais) | YDUQS | 2024–2026 | Plataformas & Integração | Liderança direta | Atendimento omnichannel com IA | Talkdesk, Avaya, Service Cloud | ★ |
-| [Renova — Portal de Rematrícula](#proj-renova) | YDUQS | 2021–2023 | Produtos Digitais | Liderança do time | +10% de renovação (lista de desejos) | React, Node.js, AWS | ★ |
-| [Criação da Área de Arquitetura de TI & ARB](#proj-adtalem-area-arq) | Adtalem | 2019–2020 | Estratégia & Arquitetura | Liderança direta | Área de arquitetura e ARB criados | TOGAF, ARB, ADR | ★ |
-| [Comitê de Automação de Processos (CAP)](#proj-cap-b2w) | B2W Digital | 2013–2016 | Estratégia & Arquitetura | Liderança direta | −63% de custo; −85% de tempo | BPMN, ServiceNow, ITIL | ★ |
-| [Transformação da Área de TI — de Suporte Reativo a Parceira Estratégica](#proj-transformacao-ti-cetrus) | CETRUS | 2016–2019 | Liderança & Pessoas | Liderança direta | TI como parceira estratégica | ITIL, COBIT, Power BI | ★ |
-| [Arquitetura de Integrações & Cultura Digital](#proj-adtalem-integracoes) | Adtalem | 2019–2020 | Plataformas & Integração | Liderança direta | Integrações padronizadas e Lean IT | iPaaS, API-LED, CI/CD | ★ |
-| [Rede de Multiplicadores e Modelo de Suporte Regional](#proj-multiplicadores-ccb) | CCB | 2016–Atual | Liderança & Pessoas | Liderança direta | −50% de chamados escalados | Microsoft Teams, SharePoint, ITIL 4 | ★ |
-| [Otimização de Contratos de Fornecedores de TI](#proj-contratos-b2w) | B2W Digital | 2010–2016 | Estratégia & Arquitetura | Liderança direta | 47% de economia em renovações | SLA/OLA, TCO, ROI | ★ |
-| [Framework de Governança de TI e Catálogo de Serviços](#proj-governanca-b2w) | B2W Digital | 2010–2013 | Estratégia & Arquitetura | Liderança direta | Catálogo com 2,5K+ itens | ITIL v3, COBIT, ISO 20000 | ★ |
-| [Plano Diretor de TI (PDTI) — Regional Embu das Artes](#proj-pdti-ccb) | CCB | 2020–Atual | Estratégia & Arquitetura | Liderança direta | PDTI para 90+ templos | COBIT 2019, Microsoft 365, Azure | ★ |
-| [Novo Ecossistema Administrativo & Acadêmico](#proj-ecossistema-cetrus) | CETRUS | 2016–2019 | Plataformas & Integração | Liderança direta | Novo ecossistema acadêmico e de gestão | SAP, Oracle CX, Moodle | ★ |
-| [Discovery & Assessment do Ecossistema de TI](#proj-adtalem-discovery) | Adtalem | 2019–2020 | Estratégia & Arquitetura | Liderança direta | Inventário e maturidade do ecossistema | CMDB, ArchiMate, ITIL | ★ |
-| [Modernização de Rede e Infraestrutura](#proj-rede-cetrus) | CETRUS | 2016–2019 | Cloud, Segurança & Ops | Liderança direta | Uptime de 99,9% em 5 unidades | VMware, Oracle Cloud, Avaya | ★ |
-| [Implantação dos Processos ITIL e da Gestão de Configuração e Ativos](#proj-itil-b2w) | B2W Digital | 2009–2010 | Estratégia & Arquitetura | Execução | −53% de incidentes por mudanças | ITIL v3, IBM Maximo, Nagios | ★ |
-| [Gestão de Ativos, Compras e Auditorias de TI da Regional](#proj-ativos-ccb) | CCB | 2016–Atual | Estratégia & Arquitetura | Liderança direta | Ativos inventariados e auditáveis | ITIL 4, inventário, Microsoft 365 | ★ |
-| [Infraestrutura Híbrida e Colaboração (Azure & Microsoft 365)](#proj-infra-hibrida-ccb) | CCB | 2023–2024 | Cloud, Segurança & Ops | Liderança direta | Azure e Microsoft 365 integrados | Azure, Microsoft 365, SharePoint Online | ★ |
-| [Comitê de Governança, Arquitetura e Segurança da Matriz](#proj-comite-matriz-ccb) | CCB | 2021–2022 | Estratégia & Arquitetura | Governança | Padrões nacionais adotados | Microsoft 365, Entra ID, LGPD | ★ |
-| [Fusão Submarino + Americanas — Migração e Suporte de TI da Operação Logística](#proj-fusao-submarino) | Lan Designers | 2007–2008 | Cloud, Segurança & Ops | Execução | SLA de 45% para 92% | Active Directory, Exchange, Wi-Fi | ★ |
-| [Automação de Processos de TI com ASK Business Desk](#proj-automacao-lan) | Lan Designers | 2008–2009 | Plataformas & Integração | Execução | Processos ITIL automatizados em bancos | ASK Business Desk, ITIL, SQL Server | ★ |
-| [Gestão Administrativa e Financeira da Unidade Local](#proj-admin-ccb) | CCB | 2008–2020 | Liderança & Pessoas | Execução | 12 anos de gestão contínua | Controles financeiros, prestação de contas, voluntários | ★ |
-| [Criação da Infraestrutura de Servidores e Rede](#proj-infra-paterno) | Paterno | 2006–2007 | Cloud, Segurança & Ops | Execução | 99,5% de disponibilidade da rede | Windows Server, Active Directory, SQL Server | ★ |
-| [Automação do Processamento de Dados de Cobrança e Correspondência](#proj-dados-paterno) | Paterno | 2006–2007 | Cloud, Segurança & Ops | Execução | −60% no preparo dos lotes | SQL Server, SQL, mala direta | ★ |
-| [Informatização e Presença Digital do Negócio](#proj-presenca-digital-kioske) | Kioske Fazendinha | 2004–2006 | Produtos Digitais | Execução | Negócio informatizado e digital | HTML/CSS, rede local, redes sociais | ★ |
+| [Estruturação da Prática de Arquitetura Corporativa](#proj-ea-corporativa) | YDUQS | 2021 – 2026 | Estratégia & Arquitetura | Liderança direta | 600+ aplicações mapeadas e governadas | TOGAF, ArchiMate, LeanIX (POC) | ★★★ |
+| [Iniciativas de IA Generativa e Agêntica](#proj-ia-generativa) | YDUQS | 2025 – 2026 | Dados & IA | Liderança direta | 4 provedores de LLM e POCs em produção | LLMs, RAG, MCP | ★★★ |
+| [M&A — Avaliação, Absorção e Padronização das Empresas Adquiridas](#proj-ma-yduqs) | YDUQS | 2020 – 2026 | Estratégia & Arquitetura | Liderança direta | −55% de aplicações redundantes | TOGAF, Entra ID (SSO), modelo TIME | ★★★ |
+| [Evolução e Migração de CDNs para Amazon CloudFront](#proj-cdn-cloudfront) | YDUQS | 2022 – 2025 | Cloud, Segurança & Ops | Liderança direta | −90% no custo de entrega | Amazon CloudFront, Amazon S3, HLS | ★★★ |
+| [Novo SIA — Sistema de Informações Acadêmicas](#proj-sia) | YDUQS | 2025 – 2026 | Produtos Digitais | Liderança direta | Novo sistema acadêmico para 1,3M+ alunos | DDD, Strangler Fig, Apache Kafka | ★★★ |
+| [Gibraltar — Data Lakehouse Corporativo](#proj-gibraltar) | YDUQS | 2022 – 2026 | Dados & IA | Liderança direta | Lakehouse corporativo com Databricks | Databricks, Unity Catalog, Azure | ★★★ |
+| [Programa de Modernização de Sistemas Legados](#proj-modernizacao-legados) | YDUQS | 2021 – 2026 | Plataformas & Integração | Liderança direta | Monolitos críticos desacoplados | Microsserviços, MuleSoft, Apache Kafka | ★★★ |
+| [Plataforma de Integração Corporativa — MuleSoft e Amazon API Gateway](#proj-integracao-corporativa) | YDUQS | 2021 – 2022 | Plataformas & Integração | Liderança direta | 1K+ APIs governadas | MuleSoft, Amazon API Gateway, Apache Kafka | ★★★ |
+| [Enturmação Automatizada com IA e Pesquisa Operacional — Integração SIA × UniSoma](#proj-enturmacao) | YDUQS | 2024 – 2025 | Dados & IA | Liderança direta | Planejamento de 3+ meses para ~1 mês | AWS Step Functions, Pesquisa Operacional, UniSoma | ★★★ |
+| [Broker de Pagamentos](#proj-broker-pagamentos) | YDUQS | 2023 – 2025 | Plataformas & Integração | Liderança direta | R$ 3B+/ano com escopo PCI reduzido | Akamai EdgeWorkers, Azure, PCI DSS | ★★★ |
+| [Portal de Polos — Canal Digital da Rede EaD](#proj-portal-polos) | YDUQS | 2022 – 2025 | Produtos Digitais | Liderança direta | Polos de 1K+ para 2K+; IA 5x | Node.js, React, Spec-Driven Development | ★★★ |
+| [Estruturação e Gestão do Time de Arquitetura](#proj-time-arquitetura) | YDUQS | 2020 – 2021 | Liderança & Pessoas | Liderança direta | Time de 12 posições sêniores | Matriz de competências, carreira em Y, OKR | ★★★ |
+| [Plano Diretor de TI (PDTI) 2026 – 2030](#proj-pdti-yduqs) | YDUQS | 2025 – 2026 | Estratégia & Arquitetura | Liderança direta | Plano 2026 – 2030 com IA, dados e produtos | TOGAF, COBIT 2019, Technology Radar | ★★★ |
+| [M&A Adtalem → YDUQS — Due Diligence & Integração Sistêmica](#proj-adtalem-integracao) | Adtalem | 2019 – 2020 | Estratégia & Arquitetura | Execução | R$ 20M/ano em sinergias mapeadas | Due diligence, ISO 27001, LGPD | ★★★ |
+| [SAVA — Sala de Aula Virtual (LMS próprio)](#proj-sava) | YDUQS | 2020 – 2024 | Produtos Digitais | Liderança direta | 750 mil alunos ativos/mês; app 4,7 | React, Node.js, MongoDB Atlas | ★★★ |
+| [SAP ERP — Customização, Conformidade Fiscal e Migração para S/4HANA](#proj-sap-erp) | YDUQS | 2025 – 2026 | Plataformas & Integração | Liderança direta | −40% de impacto no núcleo do ERP | SAP S/4HANA, SAP BTP, Clean Core | ★★★ |
+| [Implementação do Salesforce](#proj-salesforce) | YDUQS | 2021 – 2025 | Plataformas & Integração | Liderança direta | +18% de conversão de leads | Sales e Service Cloud, Vlocity, Marketing Cloud | ★★★ |
+| [Estratégia Multicloud — Arquitetura, Migração de Workloads e Continuidade](#proj-multicloud) | YDUQS | 2021 – 2023 | Cloud, Segurança & Ops | Liderança direta | 4 nuvens com DR e FinOps | AWS, Azure, Terraform | ★★★ |
+| [Observabilidade Unificada com Elastic — Consolidação de Ferramentas](#proj-observabilidade-elastic) | YDUQS | 2021 – 2023 | Cloud, Segurança & Ops | Liderança direta | −40% em licenças; −50% MTTR | Elastic Stack, OpenTelemetry, Kibana | ★★★ |
+| [Novo Billing com Oracle BRM](#proj-billing-brm) | YDUQS | 2025 – 2026 | Plataformas & Integração | Liderança direta | 2M+ faturas/mês no Oracle BRM | Oracle BRM, SAP FI/CO, Synchro | ★★ |
+| [Programa de Adequação à Reforma Tributária (CBS/IBS)](#proj-reforma-tributaria) | YDUQS | 2025 – 2026 | Estratégia & Arquitetura | Liderança direta | Paralelismo CBS/IBS 2026 – 2033 | Synchro, Oracle BRM, SAP | ★★ |
+| [Repositório Corporativo de Arquitetura & POC do LeanIX](#proj-repositorio-ea) | YDUQS | 2021 – 2022 | Estratégia & Arquitetura | Liderança direta | −80% de esforço manual no inventário | EA4US, SAP LeanIX, ServiceNow APM | ★★ |
+| [Implementação do ServiceNow](#proj-servicenow) | YDUQS | 2022 – 2024 | Plataformas & Integração | Liderança direta | −30% no tempo de resolução | ITSM, CMDB/CSDM, APM | ★★ |
+| [Seleção Global de Plataforma ITSM e Implantação do ServiceNow](#proj-itsm-b2w) | B2W Digital | 2010 – 2012 | Plataformas & Integração | Liderança direta | R$ 1,8M/ano; SLA 47% → 89% | ServiceNow, ITIL v3, RFP | ★★ |
+| [Arquitetura de Produtos Acadêmicos Próprios](#proj-produtos-academicos) | YDUQS | 2022 – 2026 | Produtos Digitais | Liderança direta | −25% em licenças de terceiros | Microsserviços, APIs, Apache Kafka | ★★ |
+| [SIRIUS — Sistema de Avaliação Acadêmica](#proj-sirius) | YDUQS | 2024 – 2025 | Produtos Digitais | Liderança direta | 100K+ avaliações simultâneas | AWS, Redis, antifraude | ★★ |
+| [SIEM Corporativo com Microsoft Sentinel](#proj-siem-sentinel) | YDUQS | 2025 – 2026 | Cloud, Segurança & Ops | Liderança do time | SIEM corporativo centralizado | Microsoft Sentinel, KQL, Logic Apps | ★★ |
+| [Joana — Repositório de Conteúdos Acadêmicos do EnsineMe](#proj-joana) | YDUQS | 2020 – 2022 | Produtos Digitais | Liderança direta | Repositório único com VideoLib | VideoLib, Amazon S3, SCORM/xAPI | ★★ |
+| [Credenciamento MEC com Nota Máxima (5/5)](#proj-mec-cetrus) | CETRUS | 2018 – 2019 | Estratégia & Arquitetura | Liderança direta | Nota máxima (5/5) no MEC | ISO 27001, WCAG, e-MEC | ★ |
+| [Plataforma de Empregabilidade — Jornada do Aluno ao Mercado](#proj-empregabilidade) | YDUQS | 2025 – 2026 | Produtos Digitais | Liderança direta | +30% de oportunidades | Elasticsearch, IA (matching), APIs | ★ |
+| [Avaliação da Arquitetura dos Sistemas de RH/HCM — Gente & Gestão](#proj-rh-hcm) | YDUQS | 2021 – 2023 | Estratégia & Arquitetura | Liderança direta | Roadmap de RH/HCM aprovado pela liderança | ArchiMate, FIT/GAP, benchmark de HCM | ★ |
+| [Governança de TI, Riscos & Segurança da Informação](#proj-grc-cetrus) | CETRUS | 2018 – 2019 | Cloud, Segurança & Ops | Liderança direta | SGSI e continuidade de negócios | COBIT 5, ISO 27001, ISO 22301 | ★ |
+| [Portais Digitais — DXP com Strapi (Headless CMS)](#proj-portais-dxp) | YDUQS | 2022 – 2024 | Produtos Digitais | Liderança direta | +30% de jornadas sem atendimento | Strapi, Next.js, BFF | ★ |
+| [Aplicativos Mobile para Alunos e Docentes](#proj-apps-mobile) | YDUQS | 2022 – 2025 | Produtos Digitais | Liderança direta | +25% de usuários ativos | React Native, BFF, OAuth 2.0 | ★ |
+| [Canais Digitais de Atendimento — Avaya & Talkdesk × Salesforce](#proj-canais-digitais) | YDUQS | 2024 – 2026 | Plataformas & Integração | Liderança direta | Atendimento omnichannel com IA | Talkdesk, Avaya, Service Cloud | ★ |
+| [Renova — Portal de Rematrícula](#proj-renova) | YDUQS | 2021 – 2023 | Produtos Digitais | Liderança do time | +10% de renovação (lista de desejos) | React, Node.js, AWS | ★ |
+| [Criação da Área de Arquitetura de TI & ARB](#proj-adtalem-area-arq) | Adtalem | 2019 – 2020 | Estratégia & Arquitetura | Liderança direta | Área de arquitetura e ARB criados | TOGAF, ARB, ADR | ★ |
+| [Comitê de Automação de Processos (CAP)](#proj-cap-b2w) | B2W Digital | 2013 – 2016 | Estratégia & Arquitetura | Liderança direta | −63% de custo; −85% de tempo | BPMN, ServiceNow, ITIL | ★ |
+| [Transformação da Área de TI — de Suporte Reativo a Parceira Estratégica](#proj-transformacao-ti-cetrus) | CETRUS | 2016 – 2019 | Liderança & Pessoas | Liderança direta | TI como parceira estratégica | ITIL, COBIT, Power BI | ★ |
+| [Arquitetura de Integrações & Cultura Digital](#proj-adtalem-integracoes) | Adtalem | 2019 – 2020 | Plataformas & Integração | Liderança direta | Integrações padronizadas e Lean IT | iPaaS, API-LED, CI/CD | ★ |
+| [Rede de Multiplicadores e Modelo de Suporte Regional](#proj-multiplicadores-ccb) | CCB | 2022 – Presente | Liderança & Pessoas | Liderança direta | −50% de chamados escalados | Microsoft Teams, SharePoint, ITIL 4 | ★ |
+| [Otimização de Contratos de Fornecedores de TI](#proj-contratos-b2w) | B2W Digital | 2014 – 2016 | Estratégia & Arquitetura | Liderança direta | 47% de economia em renovações | SLA/OLA, TCO, ROI | ★ |
+| [Framework de Governança de TI e Catálogo de Serviços](#proj-governanca-b2w) | B2W Digital | 2010 – 2013 | Estratégia & Arquitetura | Liderança direta | Catálogo com 2,5K+ itens | ITIL v3, COBIT, ISO 20000 | ★ |
+| [Plano Diretor de TI (PDTI) — Regional Embu das Artes](#proj-pdti-ccb) | CCB | 2025 – Presente | Estratégia & Arquitetura | Liderança direta | PDTI para 90+ templos | COBIT 2019, Microsoft 365, Azure | ★ |
+| [Novo Ecossistema Administrativo & Acadêmico](#proj-ecossistema-cetrus) | CETRUS | 2016 – 2019 | Plataformas & Integração | Liderança direta | Novo ecossistema acadêmico e de gestão | SAP, Oracle CX, Moodle | ★ |
+| [Discovery & Assessment do Ecossistema de TI](#proj-adtalem-discovery) | Adtalem | 2019 – 2020 | Estratégia & Arquitetura | Liderança direta | Inventário e maturidade do ecossistema | CMDB, ArchiMate, ITIL | ★ |
+| [Modernização de Rede e Infraestrutura](#proj-rede-cetrus) | CETRUS | 2017 – 2019 | Cloud, Segurança & Ops | Liderança direta | Uptime de 99,9% em 5 unidades | VMware, Oracle Cloud, Avaya | ★ |
+| [Implantação dos Processos ITIL e da Gestão de Configuração e Ativos](#proj-itil-b2w) | B2W Digital | 2009 – 2010 | Estratégia & Arquitetura | Execução | −53% de incidentes por mudanças | ITIL v3, IBM Maximo, Nagios | ★ |
+| [Gestão de Ativos, Compras e Auditorias de TI da Regional](#proj-ativos-ccb) | CCB | 2016 – Presente | Estratégia & Arquitetura | Liderança direta | Ativos inventariados e auditáveis | ITIL 4, inventário, Microsoft 365 | ★ |
+| [Infraestrutura Híbrida e Colaboração (Azure & Microsoft 365)](#proj-infra-hibrida-ccb) | CCB | 2023 – 2024 | Cloud, Segurança & Ops | Liderança direta | Azure e Microsoft 365 integrados | Azure, Microsoft 365, SharePoint Online | ★ |
+| [Comitê de Governança, Arquitetura e Segurança da Matriz](#proj-comite-matriz-ccb) | CCB | 2021 – 2022 | Estratégia & Arquitetura | Governança | Padrões nacionais adotados | Microsoft 365, Entra ID, LGPD | ★ |
+| [Fusão Submarino + Americanas — Migração e Suporte de TI da Operação Logística](#proj-fusao-submarino) | Lan Designers | 2007 – 2008 | Cloud, Segurança & Ops | Execução | SLA de 45% para 92% | Active Directory, Exchange, Wi-Fi | ★ |
+| [Automação de Processos de TI com ASK Business Desk](#proj-automacao-lan) | Lan Designers | 2008 – 2009 | Plataformas & Integração | Execução | Processos ITIL automatizados em bancos | ASK Business Desk, ITIL, SQL Server | ★ |
+| [Gestão Administrativa e Financeira da Unidade Local](#proj-admin-ccb) | CCB | 2008 – 2020 | Liderança & Pessoas | Execução | 12 anos de gestão contínua | Controles financeiros, prestação de contas, voluntários | ★ |
+| [Criação da Infraestrutura de Servidores e Rede](#proj-infra-paterno) | Paterno | 2006 – 2007 | Cloud, Segurança & Ops | Execução | 99,5% de disponibilidade da rede | Windows Server, Active Directory, SQL Server | ★ |
+| [Automação do Processamento de Dados de Cobrança e Correspondência](#proj-dados-paterno) | Paterno | 2006 – 2007 | Cloud, Segurança & Ops | Execução | −60% no preparo dos lotes | SQL Server, SQL, mala direta | ★ |
+| [Informatização e Presença Digital do Negócio](#proj-presenca-digital-kioske) | Kioske Fazendinha | 2004 – 2006 | Produtos Digitais | Execução | Negócio informatizado e digital | HTML/CSS, rede local, redes sociais | ★ |
 
 ## 💼 YDUQS — 32 projetos  [↑](#portfolio)
 
@@ -678,7 +881,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-time-arquitetura"></a>
 ### 🌱 Estruturação e Gestão do Time de Arquitetura  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2020 – 2026 · Gestor direto do time de arquitetura — estrutura, carreira, desenvolvimento e retenção*
+*2020 – 2021 · Gestor direto do time de arquitetura — estrutura, carreira, desenvolvimento e retenção*
 
 - **Escala:** 12 posições de arquitetos sêniores (Enterprise, Domínios e Soluções), ocupadas por diversos profissionais ao longo do período · interface com gerentes, diretores, VPs e squads
 - **Desafio:** Formar e manter um time de arquitetura sênior, multidisciplinar e estável, em um grupo em crescimento orgânico e por M&A, com alta demanda de projetos estratégicos e mercado competitivo por talentos.
@@ -704,7 +907,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-repositorio-ea"></a>
 ### 🗂️ Repositório Corporativo de Arquitetura & POC do LeanIX  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2021 – 2026 · Responsável pelo repositório de arquitetura e pela avaliação do LeanIX — do inventário à POC e ao business case*
+*2021 – 2022 · Responsável pelo repositório de arquitetura e pela avaliação do LeanIX — do inventário à POC e ao business case*
 
 - **Escala:** 600+ aplicações · 1K+ integrações e APIs · 3 fontes de controles (EA4US, ServiceNow e Azure DevOps)
 - **Desafio:** Controles de arquitetura manuais e distribuídos entre EA4US, ServiceNow e DevOps, sem visão única de portfólio, dependências, tecnologias e ciclo de vida das aplicações.
@@ -728,10 +931,10 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 - **Ecossistema e parceiros:** ServiceNow, SAP LeanIX, Microsoft
 
 <a id="proj-pdti-yduqs"></a>
-### 🗺️ Plano Diretor de TI (PDTI) 2026–2030  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2025 – 2026 · Coordenador da elaboração do PDTI — estratégia de tecnologia, IA, dados e produtos digitais para 2026–2030*
+### 🗺️ Plano Diretor de TI (PDTI) 2026 – 2030  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
+*2025 – 2026 · Coordenador da elaboração do PDTI — estratégia de tecnologia, IA, dados e produtos digitais para 2026 – 2030*
 
-- **Escala:** Horizonte 2026–2030 · 40+ capacidades de negócio avaliadas · 120+ iniciativas priorizadas · orçamento plurianual por domínio
+- **Escala:** Horizonte 2026 – 2030 · 40+ capacidades de negócio avaliadas · 120+ iniciativas priorizadas · orçamento plurianual por domínio
 - **Desafio:** Traduzir a estratégia do grupo até 2030 em um plano de tecnologia orientado ao negócio — inovação com IA, dados como ativo estratégico, produtos digitais e redução de obsolescência —, com portfólio priorizado e visão única entre negócio, arquitetura e TI.
 - **Atuação:**
   - Mapeamento das soluções por capacidades de negócio (heat maps) e diagnóstico do ecossistema atual, com índice de obsolescência por aplicação
@@ -746,7 +949,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
   - Priorização multicritério (valor, risco, esforço e dependências), com revisão anual integrada ao orçamento (rolling wave)
   - IA e dados como capacidades transversais, com governança antes da escala
 - **Resultados:**
-  - Plano 2026–2030 consolidado como base para as decisões de investimento em tecnologia
+  - Plano 2026 – 2030 consolidado como base para as decisões de investimento em tecnologia
   - 100% das iniciativas estratégicas mapeadas a capacidades de negócio
   - Roadmap de IA, dados e produtos digitais integrado ao portfólio de investimentos
   - −30% de aplicações obsoletas ou sobrepostas previstas até 2030
@@ -812,7 +1015,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-ia-generativa"></a>
 ### 🤖 Iniciativas de IA Generativa e Agêntica  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2024 – 2026 · Líder de arquitetura de IA — comitê, governança, plataformas e POCs de IA Generativa e Agêntica*
+*2025 – 2026 · Líder de arquitetura de IA — comitê, governança, plataformas e POCs de IA Generativa e Agêntica*
 
 - **Escala:** Grupo com 1,3M+ alunos · dezenas de POCs priorizadas · 4 provedores de LLM avaliados (OpenAI, Anthropic, Google e Amazon Bedrock)
 - **Desafio:** Adotar IA Generativa e Agêntica em escala no ensino superior — alto potencial transformador e regulação crescente — sem comprometer privacidade (LGPD), ética e rastreabilidade.
@@ -839,7 +1042,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-gibraltar"></a>
 ### 🗃️ Gibraltar — Data Lakehouse Corporativo  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2022 – 2024 · Sponsor técnico e líder de arquitetura do Lakehouse — da RFP à evolução contínua*
+*2022 – 2026 · Sponsor técnico e líder de arquitetura do Lakehouse — da RFP à evolução contínua*
 
 - **Escala:** Domínios: acadêmico, financeiro, operacional, alunos e docentes · 500+ tabelas gerenciadas · 200+ usuários de BI · 20+ pipelines
 - **Desafio:** Dados dispersos em sistemas legados e satélites, sem catálogo nem contratos de dados, limitando analytics, retenção de alunos (churn precoce) e casos de IA.
@@ -867,7 +1070,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-enturmacao"></a>
 ### 🧮 Enturmação Automatizada com IA e Pesquisa Operacional — Integração SIA × UniSoma  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2023 – 2025 · Líder de arquitetura da integração SIA × UniSoma — do desenho do pipeline à automação ponta a ponta*
+*2024 – 2025 · Líder de arquitetura da integração SIA × UniSoma — do desenho do pipeline à automação ponta a ponta*
 
 - **Escala:** 300K+ alunos do ensino presencial · 90+ unidades · calouros e veteranos a cada semestre · milhares de turmas por ciclo
 - **Desafio:** O planejamento acadêmico do presencial, feito antes em planilhas e de forma seriada, passou a usar a solução de inteligência educacional da UniSoma, mas a alimentação do modelo e o retorno dos resultados ao sistema acadêmico eram manuais.
@@ -895,7 +1098,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-sia"></a>
 ### 🎓 Novo SIA — Sistema de Informações Acadêmicas  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2024 – 2026 · Líder de arquitetura do novo SIA — domínios, estratégia de migração e integração com o ecossistema*
+*2025 – 2026 · Líder de arquitetura do novo SIA — domínios, estratégia de migração e integração com o ecossistema*
 
 - **Escala:** 1,3M+ alunos · 10+ domínios (DDD) · 100+ integrações com sistemas satélites
 - **Desafio:** Substituir o monolito legado que suporta o core educacional sem ruptura da operação regulada (MEC), reposicionando funções de apoio em sistemas especialistas.
@@ -924,7 +1127,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-billing-brm"></a>
 ### 💳 Novo Billing com Oracle BRM  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2023 – 2026 · Líder da seleção e da arquitetura do Billing — da escolha do Oracle BRM ao plano de implantação*
+*2025 – 2026 · Líder da seleção e da arquitetura do Billing — da escolha do Oracle BRM ao plano de implantação*
 
 - **Escala:** Ciclo de vida financeiro do aluno · 2M+ faturas/mês · 5 a 6 marcas em fases · integrações com SIA, SAP FI/CO, Salesforce CPQ, Broker de Pagamentos, Recupera e Synchro
 - **Desafio:** Soluções internas fragmentadas (como o SIA) para contratos, faturamento, inadimplência e renegociação, sem plataforma única do ciclo de vida financeiro.
@@ -952,7 +1155,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-broker-pagamentos"></a>
 ### 💰 Broker de Pagamentos  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2023 – 2026 · Líder de arquitetura do Broker — do desenho à implementação, com segurança e conformidade PCI*
+*2023 – 2025 · Líder de arquitetura do Broker — do desenho à implementação, com segurança e conformidade PCI*
 
 - **Escala:** Meios de pagamento: cartão, boleto, Pix, pontos e financiamento estudantil · 3 gateways ativos · R$ 3B+ por ano processados · 99,95% de disponibilidade
 - **Desafio:** Integrações diretas redundantes entre sistemas acadêmicos e adquirentes, com baixa rastreabilidade, conversão limitada e alto custo de manutenção.
@@ -1069,7 +1272,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-joana"></a>
 ### 📚 Joana — Repositório de Conteúdos Acadêmicos do EnsineMe  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2020 – 2024 · Líder de arquitetura do Joana — repositório, metadados, integração com o VideoLib e entrega de conteúdos*
+*2020 – 2022 · Líder de arquitetura do Joana — repositório, metadados, integração com o VideoLib e entrega de conteúdos*
 
 - **Escala:** Conteúdos de todas as marcas do grupo (vídeos, textos, PDFs, avaliações e pacotes interativos), altamente modularizados · consumo pelo SAVA, aplicativos e outros LMS · milhões de objetos de conteúdo
 - **Desafio:** Conteúdos acadêmicos dispersos por marca, plataforma e fornecedor, sem versionamento, metadados padronizados nem reutilização, limitando a produção modular do EnsineMe, a edtech de conteúdo do grupo.
@@ -1128,7 +1331,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-portais-dxp"></a>
 ### 🌐 Portais Digitais — DXP com Strapi (Headless CMS)  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2022 – 2025 · Líder de arquitetura dos portais — DXP, camada de experiência e integração com o ecossistema*
+*2022 – 2024 · Líder de arquitetura dos portais — DXP, camada de experiência e integração com o ecossistema*
 
 - **Escala:** Portais de Captação, Documentos, Assinaturas, Alunos e Docentes · 10+ jornadas principais · múltiplas marcas do grupo
 - **Desafio:** Experiências digitais fragmentadas por marca e por processo, exigindo uma camada única de experiência sobre SIA, SAVA, SIRIUS, Salesforce, Billing, Recupera e Broker de Pagamentos, com modelo de conteúdo compartilhado e governável.
@@ -1210,7 +1413,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-portal-polos"></a>
 ### 📍 Portal de Polos — Canal Digital da Rede EaD  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2020 – 2026 · Líder de arquitetura do Portal de Polos — da digitalização dos processos à evolução com IA*
+*2022 – 2025 · Líder de arquitetura do Portal de Polos — da digitalização dos processos à evolução com IA*
 
 - **Escala:** Rede de polos EaD em expansão · processos digitais: documentos, repasses e acompanhamento
 - **Desafio:** Operação dos polos baseada em processos manuais e descentralizados, com risco de inconsistência e alto nível de exigência regulatória.
@@ -1263,7 +1466,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-salesforce"></a>
 ### 🤝 Implementação do Salesforce  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2020 – 2025 · Líder de arquitetura do Salesforce — da RFP à criação do CoE, com múltiplos integradores*
+*2021 – 2025 · Líder de arquitetura do Salesforce — da RFP à criação do CoE, com múltiplos integradores*
 
 - **Escala:** Sales, Service, CPQ e Marketing Cloud · 5M+ registros ativos · múltiplos integradores simultâneos · 10+ marcas
 - **Desafio:** Unificar captação, atendimento, precificação e comunicação em um CRM único, coordenando múltiplos integradores.
@@ -1393,7 +1596,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-integracao-corporativa"></a>
 ### 🔌 Plataforma de Integração Corporativa — MuleSoft e Amazon API Gateway  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2021 – 2026 · Líder de arquitetura de integração — modelo API-LED, padrões e governança de APIs*
+*2021 – 2022 · Líder de arquitetura de integração — modelo API-LED, padrões e governança de APIs*
 
 - **Escala:** 1K+ APIs publicadas · integrações entre SIA, SAP, Salesforce, Oracle BRM, Broker de Pagamentos, Databricks e portais · milhões de chamadas por dia
 - **Desafio:** Integrações ponto a ponto entre sistemas acadêmicos, financeiros e de relacionamento, sem padrão, governança nem visibilidade, dificultando a modernização e a entrada de novos sistemas.
@@ -1420,7 +1623,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-multicloud"></a>
 ### ☁️ Estratégia Multicloud — Arquitetura, Migração de Workloads e Continuidade  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2021 – 2026 · Responsável pela arquitetura de referência multicloud — alocação de workloads, DR e custos*
+*2021 – 2023 · Responsável pela arquitetura de referência multicloud — alocação de workloads, DR e custos*
 
 - **Escala:** AWS, Azure, Oracle Cloud (OCI) e Google Cloud · 200+ workloads · RTO/RPO por camada de criticidade
 - **Desafio:** Workloads distribuídos entre quatro provedores, exigindo critérios de alocação, alta disponibilidade, DR, compliance e governança de custos.
@@ -1505,7 +1708,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-siem-sentinel"></a>
 ### 🚨 SIEM Corporativo com Microsoft Sentinel  [YDUQS ↩](#exp-yduqs) · [↑](#portfolio)
-*2021 – 2026 · Líder do time de Arquitetura no SIEM — arquitetura de referência, coleta e integração*
+*2025 – 2026 · Líder do time de Arquitetura no SIEM — arquitetura de referência, coleta e integração*
 
 - **Escala:** SIEM em nuvem (Azure) · fontes de identidade, nuvem, endpoints, rede e aplicações · múltiplas marcas e ambiente multicloud
 - **Desafio:** Detecção e resposta a incidentes de segurança dependentes de ferramentas isoladas, sem correlação centralizada de eventos em um ambiente multicloud e de múltiplas marcas.
@@ -1672,7 +1875,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-grc-cetrus"></a>
 ### 🛡️ Governança de TI, Riscos & Segurança da Informação  [CETRUS ↩](#exp-cetrus) · [↑](#portfolio)
-*2016 – 2019 · Responsável por governança, riscos e segurança da informação*
+*2018 – 2019 · Responsável por governança, riscos e segurança da informação*
 
 - **Escala:** 5 unidades · 18 sistemas críticos · 35 bases de dados · R$ 4,5M/ano (CAPEX e OPEX) · 45 contratos e 28 fornecedores diretos
 - **Desafio:** Instituição de saúde sem governança de TI, gestão de riscos e segurança estruturadas para sustentar o crescimento e o credenciamento.
@@ -1698,7 +1901,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-rede-cetrus"></a>
 ### 🖥️ Modernização de Rede e Infraestrutura  [CETRUS ↩](#exp-cetrus) · [↑](#portfolio)
-*2016 – 2019 · Responsável pela modernização da infraestrutura das 5 unidades*
+*2017 – 2019 · Responsável pela modernização da infraestrutura das 5 unidades*
 
 - **Escala:** 5 unidades · 18 sistemas críticos · 35 bases de dados
 - **Desafio:** Infraestrutura legada e distribuída, com indisponibilidades, redes inseguras e telefonia fragmentada.
@@ -1816,7 +2019,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-contratos-b2w"></a>
 ### 📑 Otimização de Contratos de Fornecedores de TI  [B2W Digital ↩](#exp-b2w) · [↑](#portfolio)
-*2010 – 2016 · Gestor do portfólio de contratos e fornecedores de TI*
+*2014 – 2016 · Gestor do portfólio de contratos e fornecedores de TI*
 
 - **Escala:** 15+ contratos · 10+ fornecedores estratégicos · R$ 30M+/ano em contratos
 - **Desafio:** Contratos de TI com renovações automáticas e sem visão de portfólio, TCO e níveis de serviço.
@@ -1984,7 +2187,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-pdti-ccb"></a>
 ### 📊 Plano Diretor de TI (PDTI) — Regional Embu das Artes  [CCB ↩](#exp-voluntariado) · [↑](#portfolio)
-*2020 – Presente · Gestor de TI voluntário — elaboração e condução do PDTI da Regional*
+*2025 – Presente · Gestor de TI voluntário — elaboração e condução do PDTI da Regional*
 
 - **Escala:** 6 unidades administrativas · 90+ templos · 20+ ações no roadmap · 20+ multiplicadores capacitados · 300+ usuários de colaboração
 - **Desafio:** Regional com muitas unidades e voluntários, sem planejamento estratégico de TI, política de segurança e modelo de governança.
@@ -2052,7 +2255,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 <a id="proj-multiplicadores-ccb"></a>
 ### 🧑‍🏫 Rede de Multiplicadores e Modelo de Suporte Regional  [CCB ↩](#exp-voluntariado) · [↑](#portfolio)
-*2016 – Presente · Gestor de TI voluntário — modelo de suporte e capacitação de multiplicadores*
+*2022 – Presente · Gestor de TI voluntário — modelo de suporte e capacitação de multiplicadores*
 
 - **Escala:** 6 unidades administrativas · 90+ templos · centenas de usuários · 20+ multiplicadores capacitados
 - **Desafio:** Suporte de TI para uma rede ampla de unidades e templos, com equipe voluntária reduzida e usuários com níveis variados de familiaridade com tecnologia.
@@ -2127,7 +2330,7 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 
 # 08 · PUBLICAÇÕES
 
-*Entrevista — Jornal Metro / Bandeirantes (2010) · [Artigo completo](https://raw.githubusercontent.com/ncontatori/personal-public/main/resume/20100825_MetroSaoPaulo.pdf) (p. 13) · [Resumo](https://raw.githubusercontent.com/ncontatori/personal-public/refs/heads/main/resume/MercadoDeTIBuscaBonsProfissionais.jpg)*
+*Entrevista — Jornal Metro / Bandeirantes (2010) · [Artigo completo](https://ncontatori.github.io/personal-public/resume/20100825_Metro_Sao_Paulo_p18.pdf) (p. 13) · [Resumo](https://raw.githubusercontent.com/ncontatori/personal-public/refs/heads/main/resume/MercadoDeTIBuscaBonsProfissionais.jpg)*
 
 > *"Mercado de TI busca bons profissionais — Como a escassez de mão de obra especializada faz empresas irem direto às universidades para contratar"*
 
@@ -2186,3 +2389,5 @@ Os 57 projetos que detalham as experiências, ordenados por relevância no índi
 ---
 
 *Nestor Cremm Contatori · Currículo completo · Versão 202610P · Atualizado em outubro de 2026*
+
+<sub>Versões em Markdown para leitura por IA: [CV executivo](https://ncontatori.github.io/personal-public/resume/Nestor_Contatori_CV_Executivo.md) · [CV completo](https://ncontatori.github.io/personal-public/resume/Nestor_Contatori_CV_Completo.md)</sub>
